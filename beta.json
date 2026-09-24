@@ -1,10 +1,10 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.4.0/Diastema-Setup-0.4.0.exe",
-  "sha256": "84f22501fb8b1cd50735ea2c5e47d8df5fc3c67d702555a13ab66f1c655853fa",
-  "size": 29202405,
-  "released": "2026-09-24T22:41:59.118Z",
-  "notes": "First release with automatic updates. Settings → About now shows available updates, lets admins install them, and can install them overnight. Also includes the fix for the data-folder permissions during installation.",
-  "signature": "UpOqomeJw/gY74C643znG1s1+UjQmwQdHYUOHZCcltJ+Oy1YxVXQo00HmwI9q+Ac4jI2jrxVouWcnleQGwqzAw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.4.1-beta.1/Diastema-Setup-0.4.1-beta.1.exe",
+  "sha256": "63d0057192f12bed7b4bd08d31a60c2ec1c387248f0eb084e0c3611705155b2a",
+  "size": 29200251,
+  "released": "2026-09-24T22:43:48.450Z",
+  "notes": "Test update: confirms updates install through Settings → About. No other changes.",
+  "signature": "eWNAXZP61HIaN84nJ0Vz/bnKAJXF9sXU7b77RnhzP+E4G47SWiQ/AmjLZjHeD8jmMOsPZd8PBBHaUXht7X8GBg=="
 }
