@@ -1,10 +1,10 @@
 {
-  "version": "0.4.1-beta.1",
+  "version": "0.4.1-beta.2",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.4.1-beta.1/Diastema-Setup-0.4.1-beta.1.exe",
-  "sha256": "63d0057192f12bed7b4bd08d31a60c2ec1c387248f0eb084e0c3611705155b2a",
-  "size": 29200251,
-  "released": "2026-09-24T22:43:48.450Z",
-  "notes": "Test update: confirms updates install through Settings → About. No other changes.",
-  "signature": "eWNAXZP61HIaN84nJ0Vz/bnKAJXF9sXU7b77RnhzP+E4G47SWiQ/AmjLZjHeD8jmMOsPZd8PBBHaUXht7X8GBg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.4.1-beta.2/Diastema-Setup-0.4.1-beta.2.exe",
+  "sha256": "760b84be47efe986be745ed2b7cd9818348bf1786b773a023cc2a41d0710b9a0",
+  "size": 29204297,
+  "released": "2026-09-24T22:51:56.086Z",
+  "notes": "Fixes: an update now finishes cleanly (the About page shows the result right away instead of 'Installing…'), and the page reloads only once after an update.",
+  "signature": "SNdYUWyJF//5nHUvdEx2p44k/jvIUSiYAfhof1caWY0NYj78YKduN7yIGATJXCV8UtJ6PTpjCuu0yLh8P+/zAg=="
 }
