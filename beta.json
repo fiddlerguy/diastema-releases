@@ -1,10 +1,10 @@
 {
-  "version": "0.4.1-beta.2",
+  "version": "0.5.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.4.1-beta.2/Diastema-Setup-0.4.1-beta.2.exe",
-  "sha256": "760b84be47efe986be745ed2b7cd9818348bf1786b773a023cc2a41d0710b9a0",
-  "size": 29204297,
-  "released": "2026-09-24T22:51:56.086Z",
-  "notes": "Fixes: an update now finishes cleanly (the About page shows the result right away instead of 'Installing…'), and the page reloads only once after an update.",
-  "signature": "SNdYUWyJF//5nHUvdEx2p44k/jvIUSiYAfhof1caWY0NYj78YKduN7yIGATJXCV8UtJ6PTpjCuu0yLh8P+/zAg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.1/Diastema-Setup-0.5.0-beta.1.exe",
+  "sha256": "a6919257de2b56574866724c9ea2e02a383c5f5d375090413db35d786dd720dd",
+  "size": 29210054,
+  "released": "2026-09-25T02:30:53.755Z",
+  "notes": "New: X-ray check tab. Lists periodic exams in the next 4 weeks and whether bitewings are due under each patient's insurance BW frequency (from the last 4BW or FMX, including other-office X-rays in Insurance History). Flags bitewings already on an appointment that insurance won't cover yet.",
+  "signature": "wGZ4aOMkVkLX6eRDRkfyTJea58Fx9f4x83boGmBBNO8GYn2xx6xXg35l8O13vlUy9EozJ31QI0TFZLKRQ+yzCg=="
 }
