@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0-beta.7",
+  "version": "0.5.0-beta.8",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.7/Diastema-Setup-0.5.0-beta.7.exe",
-  "sha256": "320b2001e0bfad2c70737e2b0d8e6e71305b43c43c53ee0a3acccdda23e769e7",
-  "size": 29212722,
-  "released": "2026-09-25T11:35:16.907Z",
-  "notes": "X-ray check: new 'Audit past exams' tab (read-only). For completed periodic exams in a date range it shows what insurance would have paid for that wasn't done (bitewings, pano/FMX, PAs that would have fit), and X-rays removed from the appointment with who deleted them and when (flagging the day of the visit). CSV download. New permission 'Run the X-ray audit' (on for Managers).",
-  "signature": "cbIXlT0nA08UGD92l7UxETkNWqJYoZmHIC/K68PRiJnN6zxEpFtNAfz81KnCBW4ldxiIhvY9nE6Ay4uYU+mdCA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.8/Diastema-Setup-0.5.0-beta.8.exe",
+  "sha256": "5e9bc46ec0a2bc1424b90f48c3a259ac37237ae182e1e8205c63ea705d82ebd4",
+  "size": 29209687,
+  "released": "2026-09-25T11:38:54.406Z",
+  "notes": "X-ray audit: removed X-rays that insurance wouldn't have paid for are no longer listed or counted.",
+  "signature": "xFO8I5eZUtW9FGrNnSyGSWpURRcsGaNgwwI2sLzW1N2cfswVxwjvwGo4zVDg//IikwWHfnTYmjPE0aeQu5QlCg=="
 }
