@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0-beta.5",
+  "version": "0.5.0-beta.6",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.5/Diastema-Setup-0.5.0-beta.5.exe",
-  "sha256": "b5379840fd1e62c5098d737519db8ee238e32848725f712db0de19f65926abe9",
-  "size": 29209525,
-  "released": "2026-09-25T11:22:37.236Z",
-  "notes": "X-ray check: the fix now adds the PAs that fit with bitewings (D0220 for the first, D0230 for each additional) on default teeth set in Settings (#8 and #24). Each appointment shows what the fix is worth at the patient's fee schedule, and the page shows the total in covered X-rays not yet scheduled.",
-  "signature": "pACJWaz8qcpx4b4SWJ3sMs5ASZo0d4G5jexFhpCgBzTCML9NsMebJGzEIntC4ZiekGVoW604iOceYojEq3JhBw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.6/Diastema-Setup-0.5.0-beta.6.exe",
+  "sha256": "3547a479bd6973d7ec5817ae600e01ce4e7c3bc9aa10815beabf967b76fd0386",
+  "size": 29207155,
+  "released": "2026-09-25T11:27:55.033Z",
+  "notes": "X-ray check: running total of what the fix button has added (at each patient's fee schedule), how much of it is completed, and planned X-rays removed that insurance wouldn't pay. Managers and Admins can clear it to start over; the change history is kept.",
+  "signature": "rxdavSqicQXJjNiVEG7OBLw5PeuvkIfj1ykkMS8z0yrKZAkHALoY3NtcPzbg5gbo0TJDrIcBUJC03BRsKzQXAA=="
 }
