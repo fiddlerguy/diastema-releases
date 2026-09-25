@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0-beta.8",
+  "version": "0.5.0-beta.9",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.8/Diastema-Setup-0.5.0-beta.8.exe",
-  "sha256": "5e9bc46ec0a2bc1424b90f48c3a259ac37237ae182e1e8205c63ea705d82ebd4",
-  "size": 29209687,
-  "released": "2026-09-25T11:38:54.406Z",
-  "notes": "X-ray audit: removed X-rays that insurance wouldn't have paid for are no longer listed or counted.",
-  "signature": "xFO8I5eZUtW9FGrNnSyGSWpURRcsGaNgwwI2sLzW1N2cfswVxwjvwGo4zVDg//IikwWHfnTYmjPE0aeQu5QlCg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.9/Diastema-Setup-0.5.0-beta.9.exe",
+  "sha256": "03d513abb4f0da53b0fb9a37071c9c8d08ba14ac32dbaec74d3b0c15f6bf2837",
+  "size": 29209715,
+  "released": "2026-09-25T11:43:51.236Z",
+  "notes": "X-ray audit: removed X-rays are listed only when insurance would have paid and no X-ray of that kind was done instead.",
+  "signature": "3HGq9KuDt5rWm2KJ29ck55gu07tsBREiJCJrSyrlZJDy7qgT/171NjCljAC2eO0rMxd/UpsI+GP2PGW7vXjxCw=="
 }
