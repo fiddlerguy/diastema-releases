@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0-beta.2",
+  "version": "0.5.0-beta.3",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.2/Diastema-Setup-0.5.0-beta.2.exe",
-  "sha256": "a1f51584361cfc6bfc9099a5779e39528ea94e9812da6298d20446ab5cfdb289",
-  "size": 29202759,
-  "released": "2026-09-25T02:36:23.301Z",
-  "notes": "X-ray check now covers panos too: pano and FMX share one frequency, so the last pano or FMX decides when a new pano is allowed. Also flags X-rays allowed within 30 days after an exam (moving the appointment could get them covered) and plan frequencies that look mistyped in Open Dental.",
-  "signature": "Jcm0dWeZX2Yfiop4HbD1OJo0gYxDUBoo7ePsc5ne/Rxe1pr1xRnQ10vpsSEbYmN7WtLRt7j/rePz1BEBmPsLBg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.3/Diastema-Setup-0.5.0-beta.3.exe",
+  "sha256": "3f177b27b4c94768e7375c7397f0732098877f8dc8e5aaea9ab699eef9a62740",
+  "size": 29204206,
+  "released": "2026-09-25T02:43:03.098Z",
+  "notes": "X-ray check: when bitewings are due or scheduled, shows how many extra PAs (up to 2) can be taken while bitewings + PAs stay under the FMX / pano fee at the patient's insurance fee schedule, and flags appointments with more PAs scheduled than fit. The comparison (lower of FMX and pano, FMX only, or pano only) is in Settings → X-ray check.",
+  "signature": "zX9wKCtykgeoWEBQqNr1jsT1PyPvZdVWRyzzO+Jw/0PvzP/zpN8IRRG51N5gvVkFZD+VK3Rv7wmwTjIq2xSIAw=="
 }
