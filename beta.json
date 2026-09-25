@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0-beta.1",
+  "version": "0.5.0-beta.2",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.1/Diastema-Setup-0.5.0-beta.1.exe",
-  "sha256": "a6919257de2b56574866724c9ea2e02a383c5f5d375090413db35d786dd720dd",
-  "size": 29210054,
-  "released": "2026-09-25T02:30:53.755Z",
-  "notes": "New: X-ray check tab. Lists periodic exams in the next 4 weeks and whether bitewings are due under each patient's insurance BW frequency (from the last 4BW or FMX, including other-office X-rays in Insurance History). Flags bitewings already on an appointment that insurance won't cover yet.",
-  "signature": "wGZ4aOMkVkLX6eRDRkfyTJea58Fx9f4x83boGmBBNO8GYn2xx6xXg35l8O13vlUy9EozJ31QI0TFZLKRQ+yzCg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.2/Diastema-Setup-0.5.0-beta.2.exe",
+  "sha256": "a1f51584361cfc6bfc9099a5779e39528ea94e9812da6298d20446ab5cfdb289",
+  "size": 29202759,
+  "released": "2026-09-25T02:36:23.301Z",
+  "notes": "X-ray check now covers panos too: pano and FMX share one frequency, so the last pano or FMX decides when a new pano is allowed. Also flags X-rays allowed within 30 days after an exam (moving the appointment could get them covered) and plan frequencies that look mistyped in Open Dental.",
+  "signature": "Jcm0dWeZX2Yfiop4HbD1OJo0gYxDUBoo7ePsc5ne/Rxe1pr1xRnQ10vpsSEbYmN7WtLRt7j/rePz1BEBmPsLBg=="
 }
