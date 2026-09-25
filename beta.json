@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0-beta.4",
+  "version": "0.5.0-beta.5",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.4/Diastema-Setup-0.5.0-beta.4.exe",
-  "sha256": "e7acdc49537f29b990144732f8be62d1c0aee145ee66e7cafa1da3f51d69c1a1",
-  "size": 29203747,
-  "released": "2026-09-25T03:02:08.038Z",
-  "notes": "X-ray check: one button per appointment adds the bitewings / pano that are due, or removes planned X-rays insurance won't cover and extra PAs. Undo for the last click. New access permission: Add or remove X-rays on appointments (on for Staff and Managers).",
-  "signature": "alwlcUdeMgSEVI4z+7qo3j2tWDDSu5grSRI7rYtsLmXoMXwSFs+fL2KJCQTRUtwUOJXFiqjMQTOeZRoDhsUqCA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.5/Diastema-Setup-0.5.0-beta.5.exe",
+  "sha256": "b5379840fd1e62c5098d737519db8ee238e32848725f712db0de19f65926abe9",
+  "size": 29209525,
+  "released": "2026-09-25T11:22:37.236Z",
+  "notes": "X-ray check: the fix now adds the PAs that fit with bitewings (D0220 for the first, D0230 for each additional) on default teeth set in Settings (#8 and #24). Each appointment shows what the fix is worth at the patient's fee schedule, and the page shows the total in covered X-rays not yet scheduled.",
+  "signature": "pACJWaz8qcpx4b4SWJ3sMs5ASZo0d4G5jexFhpCgBzTCML9NsMebJGzEIntC4ZiekGVoW604iOceYojEq3JhBw=="
 }
