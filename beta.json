@@ -1,10 +1,10 @@
 {
-  "version": "0.6.0-beta.1",
+  "version": "0.6.0-beta.2",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.6.0-beta.1/Diastema-Setup-0.6.0-beta.1.exe",
-  "sha256": "68fe36c3194d14e155eca14439e8485ed38601acce2f57e2b4db2569cf01b3df",
-  "size": 29231935,
-  "released": "2026-09-26T19:10:57.141Z",
-  "notes": "New layout. Home is now the day Schedule: appointments with time, operatory, dentist/hygienist, procedures, confirmation and notes; previous/next day, Today and a date picker; show/hide operatories and hide completed (remembered on each device). Clicking a patient opens the new Patient page: follow-up status (with the full follow-up window), saved treatment plans (print as before), unscheduled treatment, appointments and tasks. Patient search is in the top bar on every page (press / to jump to it). 'Today' is renamed Follow-ups; the separate Treatment Plans page is gone.",
-  "signature": "Q+oVk4E0C2plHIMSKBMyN/zrzQ9nOBf4kwbumnPHtJa9gZYKkYPtabEFhmBCzCmoTAVGTiNNnOOvtylGtfL8CA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.6.0-beta.2/Diastema-Setup-0.6.0-beta.2.exe",
+  "sha256": "2354bc4274f7c6ec0818d9cb9ebba6b62478cba842a0192d0defae7b20d7d8f5",
+  "size": 29231624,
+  "released": "2026-09-26T19:17:17.863Z",
+  "notes": "Fix: on the Schedule, the Today button's text no longer spills outside the button, and the date box no longer makes the page scroll sideways on phones.",
+  "signature": "qIm66UqBSTzJy6FdVFOZO1/1XLGj8Q2TmEYgs8XVLIbfK4uPXEVweqFSWye83VHnxCzt+tYdyKrnGMof8YVtDg=="
 }
