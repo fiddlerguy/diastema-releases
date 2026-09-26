@@ -1,10 +1,10 @@
 {
-  "version": "0.5.1-beta.1",
+  "version": "0.5.1-beta.2",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.1-beta.1/Diastema-Setup-0.5.1-beta.1.exe",
-  "sha256": "549fa96a7b6882050a82159ba2d62c84b35c785330990bd6417cd47d875752fd",
-  "size": 29223070,
-  "released": "2026-09-26T02:46:24.405Z",
-  "notes": "X-ray check: a comprehensive exam (D0150) visit with 4BW and 3 or more PAs now counts as an FMX, so it uses up the pano/FMX frequency (insurance may treat it as a full mouth series). Shown as the last pano/FMX where it applies. Settings > X-ray check can turn it off or change the exam codes and number of PAs.",
-  "signature": "3HcBX4S08R9AsicgVHs4hj5RZf73jmBOmqyYms7bxxOswN0uG+4R5rNSN7pcNo2ytl8lSPBxf0ouUINdptjHAA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.1-beta.2/Diastema-Setup-0.5.1-beta.2.exe",
+  "sha256": "3fcf088a6a855b7442a3820751f719cf18fbd14db2575afa5b2551a510bf5b74",
+  "size": 29221604,
+  "released": "2026-09-26T03:02:48.338Z",
+  "notes": "Follow-ups: patients with anything other than a checkup or cleaning on the schedule (any code outside D0/D1, including office N-codes, or an appointment with no procedures) no longer come up as due on Today. Once that appointment has passed, if the treatment still isn't scheduled or done, the follow-up comes due again.",
+  "signature": "bZ/sDjtH8g7kAHO/GfFqk7ThffquJ7By+Drr7+IdsdL5tKZpkuNaaRNJIpVEGusqyVOQ365o/jtrOZHXuiv/Aw=="
 }
