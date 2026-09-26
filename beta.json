@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0-beta.11",
+  "version": "0.5.0-beta.12",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.11/Diastema-Setup-0.5.0-beta.11.exe",
-  "sha256": "140a417651c046e8b632b8da5d5182a38cf45679d25503495a8666a531dc9467",
-  "size": 29213461,
-  "released": "2026-09-26T01:08:47.375Z",
-  "notes": "Open Dental connection: offices can now connect with a single setup code from their Diastema provider, or (advanced) their own developer key. Saved keys are encrypted for the server (existing installs are encrypted 10 minutes after starting). About shows which kind of key is in use. If the data folder moves to another server, setup asks for the code again and keeps everything else.",
-  "signature": "eJPZniUXHkuEy+DQo55Gi8fXWBj/K3QpIgNGplYYdkyahvbfiZuOMbP7Oom7Tm4D1Bggd++ppvJnEbkdd/0CBg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.12/Diastema-Setup-0.5.0-beta.12.exe",
+  "sha256": "c752174d781caa13f0920ce1a229617dc0707a87ee41328215d33aeb5d72afe1",
+  "size": 29223998,
+  "released": "2026-09-26T01:34:01.684Z",
+  "notes": "New: Settings > Phone calls. Missed calls from the phone system (e.g. Mango Voice) become tasks: the phone system posts to the Diastema Connect mailbox on your website, where each call is encrypted for this office; Diastema collects every 30 seconds, matches the number to patients (caller first), and merges repeat calls into the open task. Off until paired and turned on.",
+  "signature": "/5oKRa+GPZo/zQw432Rv/DBbMEyxF/lgSVPP0vMFXy3T7U9enu72PDnJXC59k8bvjvi++A8YVHEhyJHwaPmVAg=="
 }
