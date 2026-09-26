@@ -1,10 +1,10 @@
 {
-  "version": "0.6.0-beta.8",
+  "version": "0.6.0-beta.9",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.6.0-beta.8/Diastema-Setup-0.6.0-beta.8.exe",
-  "sha256": "16fe03ff3732789a80853c82166bdf78ca7688c3f44fcfabaefbacd0c24fe27e",
-  "size": 29238624,
-  "released": "2026-09-26T22:06:38.647Z",
-  "notes": "New: Settings > About > Go back to an earlier version (admins). Pick any earlier release that works with your data (0.5.0-beta.11 or newer; beta channel lists betas and stable, stable lists stable) with its release notes. Diastema backs up the database, installs it, and puts the current version back if the earlier one doesn't start. Overnight automatic updates are turned off so the version you left doesn't come right back.",
-  "signature": "ZhnO3Ax4n579+Hq0MMCchIQEuP5Yde071VxMp/iunebCDVKhBHY6vGrv72tI/IcPr9Fjgn9y8PHsqxJ0Kk+oAA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.6.0-beta.9/Diastema-Setup-0.6.0-beta.9.exe",
+  "sha256": "82b6042651262f5488e2a1de9324e7aa9d3ad1d71e2f0d4d7c45136195a1e0ed",
+  "size": 29246543,
+  "released": "2026-09-26T22:27:17.381Z",
+  "notes": "Open Dental button: Settings → About → Open Dental button walks admins through adding a Diastema button to Open Dental's toolbar (values ready to copy, a button icon to download, and a check that it's set up). Clicking it opens the selected patient's Diastema page.",
+  "signature": "CoCmMqKihdqWjWtnRew88/n2nGMS/mLQ/A9mHtxTSQKSqmzz8UT78kNavCxrPwNjuEzWetZvLJmI+Zvzd0XQAA=="
 }
