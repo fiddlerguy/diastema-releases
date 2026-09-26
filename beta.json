@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0-beta.14",
+  "version": "0.5.0-beta.15",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.14/Diastema-Setup-0.5.0-beta.14.exe",
-  "sha256": "073e45ef53ccc2bbf1d1f36e34b6d1f34f2203f0b2e80e28bd6f0470d3412be0",
-  "size": 29222608,
-  "released": "2026-09-26T02:04:39.626Z",
-  "notes": "Fix: in the task window, the patient search list was cut off by the bottom of the window.",
-  "signature": "2mI+WACCSo1ZyphrZ8AWjN3J77jwvuCyL7Rk4WpyUynMxAUXmDoa/h1NjpdCFa4Gj0My35wVKUxzYQA2hCEpBg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.15/Diastema-Setup-0.5.0-beta.15.exe",
+  "sha256": "167300d399004edcd61de8b818a9b921e7833521dbebb95e9387a5a61a6d9da9",
+  "size": 29225736,
+  "released": "2026-09-26T02:19:53.774Z",
+  "notes": "New: Settings > About > Download support file (admins): version, settings, an Open Dental connection check, service logs and update history, with no keys, secrets, database contents or patient information (phone numbers and emails in logs are masked). Uninstaller now also removes the update task and downloaded updates, makes sure Diastema has stopped, and supports /DELETEDATA for silent uninstalls.",
+  "signature": "N/czgOf/9j/rifz7lbcJiy0IitP7jg2BgBuMZjjYkagf3QVGDLmTVr52I//eSdjxz4QJe06qt8y94BGD4cJQDw=="
 }
