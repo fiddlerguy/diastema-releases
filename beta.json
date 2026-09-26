@@ -1,10 +1,10 @@
 {
-  "version": "0.5.1-beta.2",
+  "version": "0.5.1-beta.3",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.1-beta.2/Diastema-Setup-0.5.1-beta.2.exe",
-  "sha256": "3fcf088a6a855b7442a3820751f719cf18fbd14db2575afa5b2551a510bf5b74",
-  "size": 29221604,
-  "released": "2026-09-26T03:02:48.338Z",
-  "notes": "Follow-ups: patients with anything other than a checkup or cleaning on the schedule (any code outside D0/D1, including office N-codes, or an appointment with no procedures) no longer come up as due on Today. Once that appointment has passed, if the treatment still isn't scheduled or done, the follow-up comes due again.",
-  "signature": "bZ/sDjtH8g7kAHO/GfFqk7ThffquJ7By+Drr7+IdsdL5tKZpkuNaaRNJIpVEGusqyVOQ365o/jtrOZHXuiv/Aw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.1-beta.3/Diastema-Setup-0.5.1-beta.3.exe",
+  "sha256": "f5a232193599a871c71109f7973df7d3696e4b9500dc17f8af5cb5a535a3277b",
+  "size": 29224118,
+  "released": "2026-09-26T03:15:22.165Z",
+  "notes": "X-ray audit: only exams with missed or removed X-rays are listed (the summary still counts every exam in the date range). The 'All exams' view is gone; the CSV download has the same problem exams.",
+  "signature": "hdObZIt8VF1Vc7NCPurnZQDuIRDVaC7a7LDhDjZYcyyI23zCtRhq7GqtfE1WkJ7XyMiJQe2u/wEVJxZiLZu6Aw=="
 }
