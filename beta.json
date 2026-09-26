@@ -1,10 +1,10 @@
 {
-  "version": "0.6.0-beta.7",
+  "version": "0.6.0-beta.8",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.6.0-beta.7/Diastema-Setup-0.6.0-beta.7.exe",
-  "sha256": "34a2c192ed60e788a0d9092588df5be8ea806548339a120800580105b8a1de62",
-  "size": 29246000,
-  "released": "2026-09-26T21:57:41.197Z",
-  "notes": "New: Settings > Backup & restore (admins). Download backup makes one password-protected file with everything needed to bring Diastema back after a failed update, a reinstall or a move to a new server (users and PINs, follow-ups, tasks, history, settings, header image, the Open Dental connection and the phone-calls pairing). Restore from Settings, or from the setup page of a fresh install ('Restore from a backup file instead'): the file and password are checked first, Diastema restarts to finish, and the data it replaced is kept in backups\\before-restore-...",
-  "signature": "MuBMplfT0Mp2YWQ5iZQFgQ1uFaReU4azKOM8dYaITnZJM/hCl4FB+hLtzt1e18A51fuYYgoxKwuqdVRFWo9OAQ=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.6.0-beta.8/Diastema-Setup-0.6.0-beta.8.exe",
+  "sha256": "16fe03ff3732789a80853c82166bdf78ca7688c3f44fcfabaefbacd0c24fe27e",
+  "size": 29238624,
+  "released": "2026-09-26T22:06:38.647Z",
+  "notes": "New: Settings > About > Go back to an earlier version (admins). Pick any earlier release that works with your data (0.5.0-beta.11 or newer; beta channel lists betas and stable, stable lists stable) with its release notes. Diastema backs up the database, installs it, and puts the current version back if the earlier one doesn't start. Overnight automatic updates are turned off so the version you left doesn't come right back.",
+  "signature": "ZhnO3Ax4n579+Hq0MMCchIQEuP5Yde071VxMp/iunebCDVKhBHY6vGrv72tI/IcPr9Fjgn9y8PHsqxJ0Kk+oAA=="
 }
