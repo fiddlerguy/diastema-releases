@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0",
+  "version": "0.5.1-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0/Diastema-Setup-0.5.0.exe",
-  "sha256": "c4b151fbcdabefdf4ce3d15ca6ecc8f3ca43b059ff9dc12ef05920c90f6d8664",
-  "size": 29225386,
-  "released": "2026-09-26T02:24:12.626Z",
-  "notes": "Diastema 0.5.0. New since 0.4.0: X-ray check (bitewings, pano/FMX and extra PAs due at upcoming periodic exams by insurance frequency; one-click fix to add or remove X-rays on the appointment with undo and a running total; audit of past exams). Setup codes for connecting to Open Dental (or your own developer key), with keys encrypted on the server. Phone calls: missed calls from Mango Voice become tasks. Download support file. Fixes to the task window and updater.",
-  "signature": "eda089zIKXiM7qXMeY+xbueeL0z9DcqWnidKNlHmmqhpJjO3ylG2azAmjzx0e6MLyUmDIy1SffPSwxZEbpCbBw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.1-beta.1/Diastema-Setup-0.5.1-beta.1.exe",
+  "sha256": "549fa96a7b6882050a82159ba2d62c84b35c785330990bd6417cd47d875752fd",
+  "size": 29223070,
+  "released": "2026-09-26T02:46:24.405Z",
+  "notes": "X-ray check: a comprehensive exam (D0150) visit with 4BW and 3 or more PAs now counts as an FMX, so it uses up the pano/FMX frequency (insurance may treat it as a full mouth series). Shown as the last pano/FMX where it applies. Settings > X-ray check can turn it off or change the exam codes and number of PAs.",
+  "signature": "3HcBX4S08R9AsicgVHs4hj5RZf73jmBOmqyYms7bxxOswN0uG+4R5rNSN7pcNo2ytl8lSPBxf0ouUINdptjHAA=="
 }
