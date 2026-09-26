@@ -1,10 +1,10 @@
 {
-  "version": "0.6.0-beta.2",
+  "version": "0.6.0-beta.3",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.6.0-beta.2/Diastema-Setup-0.6.0-beta.2.exe",
-  "sha256": "2354bc4274f7c6ec0818d9cb9ebba6b62478cba842a0192d0defae7b20d7d8f5",
-  "size": 29231624,
-  "released": "2026-09-26T19:17:17.863Z",
-  "notes": "Fix: on the Schedule, the Today button's text no longer spills outside the button, and the date box no longer makes the page scroll sideways on phones.",
-  "signature": "qIm66UqBSTzJy6FdVFOZO1/1XLGj8Q2TmEYgs8XVLIbfK4uPXEVweqFSWye83VHnxCzt+tYdyKrnGMof8YVtDg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.6.0-beta.3/Diastema-Setup-0.6.0-beta.3.exe",
+  "sha256": "6ed7d696b82fad1f2231efc05dbe0546f8132005396501a3aa7c11aea3514648",
+  "size": 29231682,
+  "released": "2026-09-26T19:21:59.845Z",
+  "notes": "Schedule on phones: each appointment is now a compact card (time, patient, age and badges, operatory and providers, procedures on one line, note) instead of one labelled line per field, so busy days need far less scrolling. Long appointment notes start cut to 2 lines on phones and 3 on desktop, with More / Less to see the whole note.",
+  "signature": "KXuawJ28Dz+0Pp6bVRzIudqmrwNAkzxzNNr4joFTQ41ak5penLHYyMUGkmGt9cTJ7wlFSfDpBgNBsjnGrtwqCw=="
 }
