@@ -1,10 +1,10 @@
 {
-  "version": "0.6.0-beta.6",
+  "version": "0.6.0-beta.7",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.6.0-beta.6/Diastema-Setup-0.6.0-beta.6.exe",
-  "sha256": "608356515ac47a7ff4d748bc13c625d00f79b03b1a5368b496218865196977e4",
-  "size": 29236419,
-  "released": "2026-09-26T19:58:31.198Z",
-  "notes": "Analytics: 'No comparison' option (no earlier periods loaded, no comparison table, faster). When comparing with 2 or more earlier periods, each tile shows a mini column chart of those periods and this one (hover a bar for its value). The comparison table is now folded under 'Show the numbers' (remembered).",
-  "signature": "9mPn1P9nEciLDnjJmgIcNTQzicJt9vXuJlbCLF3S9JSgfwVuWapreKyiPwBMGh7ySh93p5cK7+4QMdXjyTtcBw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.6.0-beta.7/Diastema-Setup-0.6.0-beta.7.exe",
+  "sha256": "34a2c192ed60e788a0d9092588df5be8ea806548339a120800580105b8a1de62",
+  "size": 29246000,
+  "released": "2026-09-26T21:57:41.197Z",
+  "notes": "New: Settings > Backup & restore (admins). Download backup makes one password-protected file with everything needed to bring Diastema back after a failed update, a reinstall or a move to a new server (users and PINs, follow-ups, tasks, history, settings, header image, the Open Dental connection and the phone-calls pairing). Restore from Settings, or from the setup page of a fresh install ('Restore from a backup file instead'): the file and password are checked first, Diastema restarts to finish, and the data it replaced is kept in backups\\before-restore-...",
+  "signature": "MuBMplfT0Mp2YWQ5iZQFgQ1uFaReU4azKOM8dYaITnZJM/hCl4FB+hLtzt1e18A51fuYYgoxKwuqdVRFWo9OAQ=="
 }
