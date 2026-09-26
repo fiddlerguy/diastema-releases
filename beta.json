@@ -1,10 +1,10 @@
 {
-  "version": "0.5.1-beta.3",
+  "version": "0.6.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.1-beta.3/Diastema-Setup-0.5.1-beta.3.exe",
-  "sha256": "f5a232193599a871c71109f7973df7d3696e4b9500dc17f8af5cb5a535a3277b",
-  "size": 29224118,
-  "released": "2026-09-26T03:15:22.165Z",
-  "notes": "X-ray audit: only exams with missed or removed X-rays are listed (the summary still counts every exam in the date range). The 'All exams' view is gone; the CSV download has the same problem exams.",
-  "signature": "hdObZIt8VF1Vc7NCPurnZQDuIRDVaC7a7LDhDjZYcyyI23zCtRhq7GqtfE1WkJ7XyMiJQe2u/wEVJxZiLZu6Aw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.6.0-beta.1/Diastema-Setup-0.6.0-beta.1.exe",
+  "sha256": "68fe36c3194d14e155eca14439e8485ed38601acce2f57e2b4db2569cf01b3df",
+  "size": 29231935,
+  "released": "2026-09-26T19:10:57.141Z",
+  "notes": "New layout. Home is now the day Schedule: appointments with time, operatory, dentist/hygienist, procedures, confirmation and notes; previous/next day, Today and a date picker; show/hide operatories and hide completed (remembered on each device). Clicking a patient opens the new Patient page: follow-up status (with the full follow-up window), saved treatment plans (print as before), unscheduled treatment, appointments and tasks. Patient search is in the top bar on every page (press / to jump to it). 'Today' is renamed Follow-ups; the separate Treatment Plans page is gone.",
+  "signature": "Q+oVk4E0C2plHIMSKBMyN/zrzQ9nOBf4kwbumnPHtJa9gZYKkYPtabEFhmBCzCmoTAVGTiNNnOOvtylGtfL8CA=="
 }
