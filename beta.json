@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0-beta.12",
+  "version": "0.5.0-beta.13",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.12/Diastema-Setup-0.5.0-beta.12.exe",
-  "sha256": "c752174d781caa13f0920ce1a229617dc0707a87ee41328215d33aeb5d72afe1",
-  "size": 29223998,
-  "released": "2026-09-26T01:34:01.684Z",
-  "notes": "New: Settings > Phone calls. Missed calls from the phone system (e.g. Mango Voice) become tasks: the phone system posts to the Diastema Connect mailbox on your website, where each call is encrypted for this office; Diastema collects every 30 seconds, matches the number to patients (caller first), and merges repeat calls into the open task. Off until paired and turned on.",
-  "signature": "/5oKRa+GPZo/zQw432Rv/DBbMEyxF/lgSVPP0vMFXy3T7U9enu72PDnJXC59k8bvjvi++A8YVHEhyJHwaPmVAg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.5.0-beta.13/Diastema-Setup-0.5.0-beta.13.exe",
+  "sha256": "b33b35089d10a28f7115a3dec89793ed6dcb1eb20c97a60243d3e9db365a68ac",
+  "size": 29225283,
+  "released": "2026-09-26T01:39:56.607Z",
+  "notes": "Phone calls: made for Mango Voice. Settings > Phone calls shows the full Mango webhook URL (with Mango's {CALLER_NUMBER}, {TIME_UTC} etc.). Each missed call becomes a task 'Missed phone call from (xxx) xxx-xxxx at 2:14 PM' for the person you choose, with caller ID and the line called in the notes. No patient matching. A repeated webhook for the same call is ignored.",
+  "signature": "6XpB5UHm7niED2Ff4JDU3yuSK49nbHmCuYMWwn25htxU32EIzSy3g1nWeHSl/n4IEUIxN6ZAmNuEwtmeG3q7DA=="
 }
