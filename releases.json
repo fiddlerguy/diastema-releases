@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.6.0-beta.10",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.6.0-beta.10/Diastema-Setup-0.6.0-beta.10.exe",
+      "sha256": "4c35d1b797148de5d55e2b5cdee8255982d228721408f603e915d32a45a22dee",
+      "size": 29246312,
+      "released": "2026-09-27T00:26:21.986Z",
+      "notes": "First-run setup now ends with an optional step to add the Diastema button to Open Dental (Skip for now to do it later in Settings → About). The Open Dental button steps also fit on phone screens.",
+      "signature": "Y1/PGe+UMciuTxPAQasOY9GnA1svIaucqYtEvN1YfjiEqcR4P7Mv34FYCTriDycV2yihPOO9gvHIYgpl62SvDQ=="
+    },
+    {
       "version": "0.6.0-beta.9",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.6.0-beta.9/Diastema-Setup-0.6.0-beta.9.exe",
