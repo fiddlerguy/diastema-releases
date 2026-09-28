@@ -1,10 +1,10 @@
 {
-  "version": "0.7.0-beta.1",
+  "version": "0.7.0-beta.2",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.7.0-beta.1/Diastema-Setup-0.7.0-beta.1.exe",
-  "sha256": "891b234069188a4a2770d8dd83756c97688a7dd5cd816def8c651e23be76544b",
-  "size": 29262669,
-  "released": "2026-09-28T15:17:28.726Z",
-  "notes": "Connected to Diastema: an admin can connect this server in Settings → About with a one-time enrollment code from Diastema. Once connected it sends a short status every 15 minutes (versions, whether Open Dental answers, backups on or off), never patient data.",
-  "signature": "2DeScvF53snlHAKhtizpMLbE5nXub+optFT9jZLrS8ExTAHfsY3r9IKI1lC8HoEhedf3g82xyS3qObdd/huaAg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.7.0-beta.2/Diastema-Setup-0.7.0-beta.2.exe",
+  "sha256": "410310a8633cc8187b46f8e7169ef8c68e81a0894135ef247ce644f88f2d0bb6",
+  "size": 29266492,
+  "released": "2026-09-28T17:21:15.616Z",
+  "notes": "Missed calls can now go through Diastema's own mailbox instead of the WordPress plugin: Settings → Phone calls → Switch to Diastema's mailbox, then paste the new webhook address into Mango. The WordPress mailbox is still emptied until you stop it, so no call is lost while you change Mango.",
+  "signature": "Bsu965lvIXesqUlC55aT/2gwpIGPKKXDmRorGEVdu95Hiq9nhLd7ZPJ5X+UdqC2blyVb1MVPgnydu8K4TMiKBw=="
 }
