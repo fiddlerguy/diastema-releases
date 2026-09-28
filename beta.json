@@ -1,10 +1,10 @@
 {
-  "version": "0.6.0-beta.10",
+  "version": "0.7.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.6.0-beta.10/Diastema-Setup-0.6.0-beta.10.exe",
-  "sha256": "4c35d1b797148de5d55e2b5cdee8255982d228721408f603e915d32a45a22dee",
-  "size": 29246312,
-  "released": "2026-09-27T00:26:21.986Z",
-  "notes": "First-run setup now ends with an optional step to add the Diastema button to Open Dental (Skip for now to do it later in Settings → About). The Open Dental button steps also fit on phone screens.",
-  "signature": "Y1/PGe+UMciuTxPAQasOY9GnA1svIaucqYtEvN1YfjiEqcR4P7Mv34FYCTriDycV2yihPOO9gvHIYgpl62SvDQ=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.7.0-beta.1/Diastema-Setup-0.7.0-beta.1.exe",
+  "sha256": "891b234069188a4a2770d8dd83756c97688a7dd5cd816def8c651e23be76544b",
+  "size": 29262669,
+  "released": "2026-09-28T15:17:28.726Z",
+  "notes": "Connected to Diastema: an admin can connect this server in Settings → About with a one-time enrollment code from Diastema. Once connected it sends a short status every 15 minutes (versions, whether Open Dental answers, backups on or off), never patient data.",
+  "signature": "2DeScvF53snlHAKhtizpMLbE5nXub+optFT9jZLrS8ExTAHfsY3r9IKI1lC8HoEhedf3g82xyS3qObdd/huaAg=="
 }
