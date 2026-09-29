@@ -1,10 +1,10 @@
 {
-  "version": "0.8.0-beta.1",
+  "version": "0.9.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.8.0-beta.1/Diastema-Setup-0.8.0-beta.1.exe",
-  "sha256": "66ec353c88e0e2cfe35b9bb7e9e3e5225c32acc93a690a3bf73f780bdbe18cce",
-  "size": 29271156,
-  "released": "2026-09-29T01:59:46.894Z",
-  "notes": "Off-site copies with Diastema: an admin can tick “Also keep an off-site copy with Diastema” on the Automatic backups card (Settings → Backup & restore; needs the Diastema connection). Each night's backup file, still locked with the recovery code, also goes to Diastema's off-site storage and is kept 14 days. A fresh install can restore from it on the setup page with a restore code from Diastema support.",
-  "signature": "vG5xiA1yw75/TQitSXMDAQAiYMRpwCQc6YHOEd0xVoVHvisQNa9n2VMM0QLBd/e091d2tFV0zi+QoQ1D/OAoAQ=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.9.0-beta.1/Diastema-Setup-0.9.0-beta.1.exe",
+  "sha256": "0e5590eac9c4e68da0534072d3ce04b1e0876a250fc2af91ad853cd89bd7f1e4",
+  "size": 29278817,
+  "released": "2026-09-29T13:15:27.748Z",
+  "notes": "iPads and phones in the office: an admin can turn it on in Settings → About. Staff then open Diastema on an iPad or phone on the office Wi-Fi at your office's own address (shown there, with a QR code to scan), with a real certificate that this server holds and renews on its own. Everyone still signs in with their PIN. Computers in the office keep using Diastema exactly as before, even when the internet is down.",
+  "signature": "KGdzXwWgC3QMPTa2HuAi5IV2BeGJun9uhW+oAgMZmpqrBI/zmzYVPpUivqDWs87Fu/L1lkTCnSrK2jeNz/9YAA=="
 }
