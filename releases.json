@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.12.0-beta.1",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.12.0-beta.1/Diastema-Setup-0.12.0-beta.1.exe",
+      "sha256": "144d07480e19aa6b223c34943680a22d76f441c2b03dbba19e8b47adc7949684",
+      "size": 29313729,
+      "released": "2026-09-30T02:06:28.628Z",
+      "notes": "One address for everyone: the office's computers can now use your office's secure address too, like iPads and phones. Add each computer once (Settings → Devices; admins can make one code for several computers). Browsers use HTTP/2 through it, so each page loads over a single connection. The office-network address (http://SERVER:8080) becomes an advanced option in Settings → About: it always works on the server itself, and for other computers only while an admin has it on, for example while the internet is down. It stays on after this update until you turn it off, so nothing changes until you're ready. The Open Dental button can now open the secure address (Settings → About shows the path to use).",
+      "signature": "ADBFLhCcYSRqFAiOLzA77y2pdTvN/eMOi0TxKCYjgqBBBUTG8IZm6mc91tpIC7KcBtgkEeUpzku7Jg51KkjNBA=="
+    },
+    {
       "version": "0.11.0-beta.1",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.11.0-beta.1/Diastema-Setup-0.11.0-beta.1.exe",
