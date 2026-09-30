@@ -1,10 +1,10 @@
 {
-  "version": "0.12.0-beta.1",
+  "version": "0.13.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.12.0-beta.1/Diastema-Setup-0.12.0-beta.1.exe",
-  "sha256": "144d07480e19aa6b223c34943680a22d76f441c2b03dbba19e8b47adc7949684",
-  "size": 29313729,
-  "released": "2026-09-30T02:06:28.628Z",
-  "notes": "One address for everyone: the office's computers can now use your office's secure address too, like iPads and phones. Add each computer once (Settings → Devices; admins can make one code for several computers). Browsers use HTTP/2 through it, so each page loads over a single connection. The office-network address (http://SERVER:8080) becomes an advanced option in Settings → About: it always works on the server itself, and for other computers only while an admin has it on, for example while the internet is down. It stays on after this update until you turn it off, so nothing changes until you're ready. The Open Dental button can now open the secure address (Settings → About shows the path to use).",
-  "signature": "ADBFLhCcYSRqFAiOLzA77y2pdTvN/eMOi0TxKCYjgqBBBUTG8IZm6mc91tpIC7KcBtgkEeUpzku7Jg51KkjNBA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.13.0-beta.1/Diastema-Setup-0.13.0-beta.1.exe",
+  "sha256": "d22155f075b24e4332600e0787b6d7681d1906b8099c364f05d99ad883de0adc",
+  "size": 29314958,
+  "released": "2026-09-30T11:59:32.421Z",
+  "notes": "Updates from Diastema support: when your server is connected to Diastema, Diastema support can now install an update for you (usually overnight, at the install time in Settings → About), go back to an earlier version if an update causes trouble, and adjust your update settings. Settings → About shows anything scheduled and who installed the last update. As always, only updates signed by Diastema are installed, your data is backed up first, and the previous version is put back automatically if a new one doesn't start.",
+  "signature": "W7D82PzpeeoRUWhUFjXAo5iQ9xM4uNKNhOVdoKZk5jan3lhGFvFuS2sVggKIyM+iIlRDsfPq2LQ51vm07LGaAg=="
 }
