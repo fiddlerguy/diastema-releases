@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.10.0-beta.1",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.10.0-beta.1/Diastema-Setup-0.10.0-beta.1.exe",
+      "sha256": "4a3b18d07db03a9af42041d65cbb42c0b0dada309e508c23f0c41dc165eb6aec",
+      "size": 29298918,
+      "released": "2026-09-30T00:06:02.407Z",
+      "notes": "iPads and phones connect more reliably. Diastema's connection to diastema.app now uses secure WebSockets, the standard that office firewalls and web filters already allow, and an iPad's or phone's first request no longer fails after the office has been quiet for a few minutes. Update the server soon: diastema.app now expects this kind of connection, so iPads and phones can't reach Diastema through it until the server is updated. Computers in the office aren't affected.",
+      "signature": "/0QzrOwuYYcy9pkSAX3fJy6LrD4xYLG1aY22OzyZXUxTM1TUl6vvbFPKyX//pdtXS7ZYQqd22S46GKnUwIFeCQ=="
+    },
+    {
       "version": "0.9.0-beta.1",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.9.0-beta.1/Diastema-Setup-0.9.0-beta.1.exe",
