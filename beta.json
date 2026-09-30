@@ -1,10 +1,10 @@
 {
-  "version": "0.11.0-beta.1",
+  "version": "0.12.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.11.0-beta.1/Diastema-Setup-0.11.0-beta.1.exe",
-  "sha256": "fbbc77c14b282e8c68a734a943176a530799ed780527ff5c7e12e2bc8cd3ea08",
-  "size": 29311540,
-  "released": "2026-09-30T01:35:15.765Z",
-  "notes": "iPads, phones and computers are added once, then open Diastema at your office's secure address from anywhere, not just on the office's internet connection. Add one from Settings → Devices (scan the QR code with the device, or type the short code on it), or, on the office's internet connection, tap \"Ask to add it\" on the device and approve it from the banner after checking the number on its screen. Managers and admins can add and remove devices (Settings → Users & access). After this update, each iPad and phone that already uses the secure address needs to be added once. Everyone still signs in with their PIN; 10 wrong PINs in a row on one device remove it. Computers using the office-network address aren't affected.",
-  "signature": "UsgRlN476/xm8PAmtiCz5tn3GcZGjSeu2Ct0jziKqaBxWdz8XVv313Co4tsJqXNK3gDjLuBPLLz/9R1RzHJkCg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.12.0-beta.1/Diastema-Setup-0.12.0-beta.1.exe",
+  "sha256": "144d07480e19aa6b223c34943680a22d76f441c2b03dbba19e8b47adc7949684",
+  "size": 29313729,
+  "released": "2026-09-30T02:06:28.628Z",
+  "notes": "One address for everyone: the office's computers can now use your office's secure address too, like iPads and phones. Add each computer once (Settings → Devices; admins can make one code for several computers). Browsers use HTTP/2 through it, so each page loads over a single connection. The office-network address (http://SERVER:8080) becomes an advanced option in Settings → About: it always works on the server itself, and for other computers only while an admin has it on, for example while the internet is down. It stays on after this update until you turn it off, so nothing changes until you're ready. The Open Dental button can now open the secure address (Settings → About shows the path to use).",
+  "signature": "ADBFLhCcYSRqFAiOLzA77y2pdTvN/eMOi0TxKCYjgqBBBUTG8IZm6mc91tpIC7KcBtgkEeUpzku7Jg51KkjNBA=="
 }
