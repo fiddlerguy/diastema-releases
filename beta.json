@@ -1,10 +1,10 @@
 {
-  "version": "0.13.0-beta.1",
+  "version": "0.14.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.13.0-beta.1/Diastema-Setup-0.13.0-beta.1.exe",
-  "sha256": "d22155f075b24e4332600e0787b6d7681d1906b8099c364f05d99ad883de0adc",
-  "size": 29314958,
-  "released": "2026-09-30T11:59:32.421Z",
-  "notes": "Updates from Diastema support: when your server is connected to Diastema, Diastema support can now install an update for you (usually overnight, at the install time in Settings → About), go back to an earlier version if an update causes trouble, and adjust your update settings. Settings → About shows anything scheduled and who installed the last update. As always, only updates signed by Diastema are installed, your data is backed up first, and the previous version is put back automatically if a new one doesn't start.",
-  "signature": "W7D82PzpeeoRUWhUFjXAo5iQ9xM4uNKNhOVdoKZk5jan3lhGFvFuS2sVggKIyM+iIlRDsfPq2LQ51vm07LGaAg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.14.0-beta.1/Diastema-Setup-0.14.0-beta.1.exe",
+  "sha256": "fbe5c981fd5d228d6f92c7ebc46e19daf7c348fad6d0ff1183dcf8715c70d958",
+  "size": 29324972,
+  "released": "2026-09-30T13:44:55.911Z",
+  "notes": "Usage statistics: when your server is connected to Diastema, it now sends Diastema a short daily summary of how much each part of Diastema was used (for example pages opened, treatment plans printed, follow-ups logged and X-ray fixes), day totals in dollars for the X-ray check and printed plans, how many staff signed in, and a few settings. It never includes patient names or details, staff names, or anything typed into Diastema. This helps Diastema decide what to improve.",
+  "signature": "UFlUVoNaQBZMs0XXx/8q+8073MgKiZ4di/10puPxty0pzgy8ZO7CBq43s2eIl0xNgWrnbjwGFjVfxqUVJvAaCQ=="
 }
