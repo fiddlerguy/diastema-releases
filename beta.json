@@ -1,10 +1,10 @@
 {
-  "version": "0.9.0-beta.1",
+  "version": "0.10.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.9.0-beta.1/Diastema-Setup-0.9.0-beta.1.exe",
-  "sha256": "0e5590eac9c4e68da0534072d3ce04b1e0876a250fc2af91ad853cd89bd7f1e4",
-  "size": 29278817,
-  "released": "2026-09-29T13:15:27.748Z",
-  "notes": "iPads and phones in the office: an admin can turn it on in Settings → About. Staff then open Diastema on an iPad or phone on the office Wi-Fi at your office's own address (shown there, with a QR code to scan), with a real certificate that this server holds and renews on its own. Everyone still signs in with their PIN. Computers in the office keep using Diastema exactly as before, even when the internet is down.",
-  "signature": "KGdzXwWgC3QMPTa2HuAi5IV2BeGJun9uhW+oAgMZmpqrBI/zmzYVPpUivqDWs87Fu/L1lkTCnSrK2jeNz/9YAA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.10.0-beta.1/Diastema-Setup-0.10.0-beta.1.exe",
+  "sha256": "4a3b18d07db03a9af42041d65cbb42c0b0dada309e508c23f0c41dc165eb6aec",
+  "size": 29298918,
+  "released": "2026-09-30T00:06:02.407Z",
+  "notes": "iPads and phones connect more reliably. Diastema's connection to diastema.app now uses secure WebSockets, the standard that office firewalls and web filters already allow, and an iPad's or phone's first request no longer fails after the office has been quiet for a few minutes. Update the server soon: diastema.app now expects this kind of connection, so iPads and phones can't reach Diastema through it until the server is updated. Computers in the office aren't affected.",
+  "signature": "/0QzrOwuYYcy9pkSAX3fJy6LrD4xYLG1aY22OzyZXUxTM1TUl6vvbFPKyX//pdtXS7ZYQqd22S46GKnUwIFeCQ=="
 }
