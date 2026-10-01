@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.15.0-beta.1",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.15.0-beta.1/Diastema-Setup-0.15.0-beta.1.exe",
+      "sha256": "b94ae11ab59f641d3c1e5e1b305727072545e6c4b9a5492453f3954bb079ccc7",
+      "size": 29328022,
+      "released": "2026-10-01T03:31:16.461Z",
+      "notes": "Diastema now shows the features your office has. Diastema support turns them on or off; a feature that's off is hidden and its data is kept, and one on for a trial has a Preview tag.\n\nSettings is now a few short pages: one for each feature with settings, plus People (who signs in and what each level can do) and Office (Open Dental, devices and the secure address, backups, updates, the Diastema connection and support). Settings that rarely change are under More settings.\n\nMissed calls: the old WordPress mailbox is gone. If your office still used it, Settings → Missed calls offers Diastema's mailbox.\n\nThe support file no longer includes the office's certificate keys.",
+      "signature": "I3PSCJTEYNG+G7TcVXJsb78/1OO+/jf3Ao6D97t3yxwIuBgIbRxrngisvjeP3ysNZs7OBLDXMMw48q07OHUmDw=="
+    },
+    {
       "version": "0.14.0-beta.1",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.14.0-beta.1/Diastema-Setup-0.14.0-beta.1.exe",
