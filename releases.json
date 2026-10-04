@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.16.0-beta.1",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.16.0-beta.1/Diastema-Setup-0.16.0-beta.1.exe",
+      "sha256": "b34810db3b54a7d79baabf4f7628acc790a59d9129ed5e2333a78a13e26efae7",
+      "size": 29330030,
+      "released": "2026-10-04T01:32:07.808Z",
+      "notes": "GapCheck: the X-ray check is now called GapCheck. New servers set up with one enrollment code from Diastema; new staff get temporary PINs; a printable post-install packet. When Open Dental refuses its keys, the setup page says where to add them.",
+      "signature": "iHUsOY5A0IhyhhpBPSmUVxeVQEwEcQkNbXS0UT1qxnbmT4kIARS9KGFJFth/OkZJcOHYoxBnvQSHM4dDl1haDA=="
+    },
+    {
       "version": "0.15.0-beta.1",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.15.0-beta.1/Diastema-Setup-0.15.0-beta.1.exe",
