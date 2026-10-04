@@ -1,10 +1,10 @@
 {
-  "version": "0.16.0-beta.1",
+  "version": "0.17.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.16.0-beta.1/Diastema-Setup-0.16.0-beta.1.exe",
-  "sha256": "b34810db3b54a7d79baabf4f7628acc790a59d9129ed5e2333a78a13e26efae7",
-  "size": 29330030,
-  "released": "2026-10-04T01:32:07.808Z",
-  "notes": "GapCheck: the X-ray check is now called GapCheck. New servers set up with one enrollment code from Diastema; new staff get temporary PINs; a printable post-install packet. When Open Dental refuses its keys, the setup page says where to add them.",
-  "signature": "iHUsOY5A0IhyhhpBPSmUVxeVQEwEcQkNbXS0UT1qxnbmT4kIARS9KGFJFth/OkZJcOHYoxBnvQSHM4dDl1haDA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.17.0-beta.1/Diastema-Setup-0.17.0-beta.1.exe",
+  "sha256": "9bac781d945dc1d9b8e08692ba00d7af679d212dea9c9fdaae513ce4ffdf3e6c",
+  "size": 29344419,
+  "released": "2026-10-04T17:16:26.174Z",
+  "notes": "GapCheck labels now say what's on file in Open Dental, not what insurance covers: \"over limit\" instead of \"not covered\", \"At limit\" instead of \"Not due\", and totals \"within plan limits\". Monthly usage figures are sent for each finished month. Missed calls go straight to your office's own secure address. If Diastema is ever stopped or suspended, an administrator can still open and export your records.",
+  "signature": "RNDsSAa+dWEjXH21HEX04d7fg2Qoz93MoFgAXC1R7TFFUW002Xu8w5sGa9WRVJ8bKWCb4sEce9lpCs0Im4OMAA=="
 }
