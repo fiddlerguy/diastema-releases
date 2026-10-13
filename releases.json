@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.17.0-beta.2",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.17.0-beta.2/Diastema-Setup-0.17.0-beta.2.exe",
+      "sha256": "d9cbdb9a42b8ddb34a2397f74a948c7691b213f5dc1b105e40f9c6e8e8d78abd",
+      "size": 29345494,
+      "released": "2026-10-13T03:33:44.647Z",
+      "notes": "Setup checks the Open Dental API address for you: it looks for Open Dental's API service on this computer and says whether the address works. The installer checks that its port is free and offers another if a program already uses it.",
+      "signature": "BnktsX0Ipwhwos9ZSthW9dVsbk5rWeO86S/j6FhFr7e9nDY1qGPnw0EStmNAhPetOVqMyCISupmknspfH3huCA=="
+    },
+    {
       "version": "0.17.0-beta.1",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.17.0-beta.1/Diastema-Setup-0.17.0-beta.1.exe",
