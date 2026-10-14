@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.18.0-beta.1",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.18.0-beta.1/Diastema-Setup-0.18.0-beta.1.exe",
+      "sha256": "8c5234e4edb19b143cddac1af66c1b7afbe92907b3d2607ca7d3b342796ce953",
+      "size": 29568951,
+      "released": "2026-10-14T17:29:09.293Z",
+      "notes": "Patient forms online and patient email: welcome letters with the forms link, appointment reminders and email confirmations, with Preview only to check them first. Both stay off until Diastema support turns them on. Settings → Office → Updates now saves a change of channel or overnight installs.",
+      "signature": "JxDSFl+hbvj5h1BW/eMypY1+nQjw1rpXuBjmvEEwLGpyDXDr3ujf/rztV9A21MOLMzo7YSByuzzlqfyWXnrgDw=="
+    },
+    {
       "version": "0.17.0",
       "channel": "stable",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.17.0/Diastema-Setup-0.17.0.exe",
