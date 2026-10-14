@@ -1,10 +1,10 @@
 {
-  "version": "0.17.0",
+  "version": "0.18.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.17.0/Diastema-Setup-0.17.0.exe",
-  "sha256": "b9a118f9040a54d5e78e92cc3e050e11a5f684d942e968e2ba2ab5076c086ae6",
-  "size": 29345447,
-  "released": "2026-10-14T17:17:19.178Z",
-  "notes": "The installer checks that its port is free and offers another if a program already uses it. Setup finds Open Dental's API service on this computer and says whether the address works.",
-  "signature": "IXxTKULQKD3NSfEAV8SOtjbma589JUJC0v++uouqKZBraS5BVOQgVXWj+oQaTI0DSFiD+TiQfIIkOlHVWTOtDg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.18.0-beta.1/Diastema-Setup-0.18.0-beta.1.exe",
+  "sha256": "8c5234e4edb19b143cddac1af66c1b7afbe92907b3d2607ca7d3b342796ce953",
+  "size": 29568951,
+  "released": "2026-10-14T17:29:09.293Z",
+  "notes": "Patient forms online and patient email: welcome letters with the forms link, appointment reminders and email confirmations, with Preview only to check them first. Both stay off until Diastema support turns them on. Settings → Office → Updates now saves a change of channel or overnight installs.",
+  "signature": "JxDSFl+hbvj5h1BW/eMypY1+nQjw1rpXuBjmvEEwLGpyDXDr3ujf/rztV9A21MOLMzo7YSByuzzlqfyWXnrgDw=="
 }
