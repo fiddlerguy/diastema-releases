@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.18.0-beta.2",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.18.0-beta.2/Diastema-Setup-0.18.0-beta.2.exe",
+      "sha256": "d9059093a3570f9191808c90e4b76198670e3e0e0a845927a3731862ea7a0c10",
+      "size": 29578364,
+      "released": "2026-10-15T02:05:55.427Z",
+      "notes": "Settings → Practice (one place for the practice's name, address, email and phone); the privacy notice's facts as text in the notice; Patient email timeline as step tabs with each recall its own step; Diastema emailed / texted / confirmed statuses in Open Dental; Send forms in one click (Email, Text, Open on this device, Copy link); a Save question before leaving changed settings; Open Dental's button with no patient picked opens the home page.",
+      "signature": "OIbC4+wFE4jfqVw9BID3L3EfCh+C2/WpyL7SICm8hA+2PflH3YWLBpyZLnv5yzpl+fnZwspdJ1dwE2FEHcGcCQ=="
+    },
+    {
       "version": "0.18.0-beta.1",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.18.0-beta.1/Diastema-Setup-0.18.0-beta.1.exe",
