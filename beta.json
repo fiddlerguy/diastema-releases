@@ -1,10 +1,10 @@
 {
-  "version": "0.18.0-beta.1",
+  "version": "0.18.0-beta.2",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.18.0-beta.1/Diastema-Setup-0.18.0-beta.1.exe",
-  "sha256": "8c5234e4edb19b143cddac1af66c1b7afbe92907b3d2607ca7d3b342796ce953",
-  "size": 29568951,
-  "released": "2026-10-14T17:29:09.293Z",
-  "notes": "Patient forms online and patient email: welcome letters with the forms link, appointment reminders and email confirmations, with Preview only to check them first. Both stay off until Diastema support turns them on. Settings → Office → Updates now saves a change of channel or overnight installs.",
-  "signature": "JxDSFl+hbvj5h1BW/eMypY1+nQjw1rpXuBjmvEEwLGpyDXDr3ujf/rztV9A21MOLMzo7YSByuzzlqfyWXnrgDw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.18.0-beta.2/Diastema-Setup-0.18.0-beta.2.exe",
+  "sha256": "d9059093a3570f9191808c90e4b76198670e3e0e0a845927a3731862ea7a0c10",
+  "size": 29578364,
+  "released": "2026-10-15T02:05:55.427Z",
+  "notes": "Settings → Practice (one place for the practice's name, address, email and phone); the privacy notice's facts as text in the notice; Patient email timeline as step tabs with each recall its own step; Diastema emailed / texted / confirmed statuses in Open Dental; Send forms in one click (Email, Text, Open on this device, Copy link); a Save question before leaving changed settings; Open Dental's button with no patient picked opens the home page.",
+  "signature": "OIbC4+wFE4jfqVw9BID3L3EfCh+C2/WpyL7SICm8hA+2PflH3YWLBpyZLnv5yzpl+fnZwspdJ1dwE2FEHcGcCQ=="
 }
