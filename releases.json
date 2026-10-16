@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.18.0-beta.3",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.18.0-beta.3/Diastema-Setup-0.18.0-beta.3.exe",
+      "sha256": "4dcec7a0c1eee222d1aa64c03a578fd8d569e654e6363e5a7ab3cd5e69daa8f7",
+      "size": 29599478,
+      "released": "2026-10-16T11:50:49.640Z",
+      "notes": "Patient forms, ready for the form editor. The New patient form and the health history update are now one form, asked as either. Every office starts from Diastema's generic consents and email subjects: the consents have blanks for your practice's details and policy numbers, and they can't be sent to patients until your own wording is filled in. Diastema keeps a signed form's answers, signature and PDF for 30 days after it's filed in Open Dental, then only that it was signed and when. Patient emails record which wording they went out with.",
+      "signature": "ljpz9JsL+MO+n4Z7h4M/4XtMRRpzRqK8Wb/LyBJkgU1Yvqb4/6aAUabM4rBsX1XLeqUuBmJVtfN6YZSNaen5Cw=="
+    },
+    {
       "version": "0.18.0-beta.2",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.18.0-beta.2/Diastema-Setup-0.18.0-beta.2.exe",
