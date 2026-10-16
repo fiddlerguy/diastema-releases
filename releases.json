@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.19.0-beta.1",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.19.0-beta.1/Diastema-Setup-0.19.0-beta.1.exe",
+      "sha256": "e042eefc27d623fc5f5732cc0696edc248663ce0ba88715096067382e623b161",
+      "size": 29707200,
+      "released": "2026-10-16T20:27:45.471Z",
+      "notes": "The form editor. Settings → Patient forms → Forms lists every form, consent and page; Edit opens one full width to reword, reorder, switch off or add questions in English and Spanish, fill in your consents' blanks, see it on a phone as you type, and publish a new version. Patients part way through finish the version they started; for a consent you choose whether signed patients sign again. History, Compare and Restore keep every version; Export and Import move a form to another office. Consents and pages can hold risk lists with initials, steps, a Call us if box and pictures, ready for procedure consents. Patient emails are in the same editor: Edit template on each email step of Settings → Patient email changes that email's words and subject, with a preview in both languages and Send me a test; the greeting, appointment lines, forms section and Confirm section are shared by every email and changed once. The problems, starter lists and urgent medical note list moved into the editor, beside the health questions.",
+      "signature": "913dhUMgF5HO7EcSDTYVhQylJMVFBWyW3V+7nkLpBafSQIuZ7t/LqSPujemHLz+IWGYF1Sss5KI2pXC9HOlBAA=="
+    },
+    {
       "version": "0.18.0-beta.3",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.18.0-beta.3/Diastema-Setup-0.18.0-beta.3.exe",
