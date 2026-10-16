@@ -1,10 +1,10 @@
 {
-  "version": "0.18.0-beta.2",
+  "version": "0.18.0-beta.3",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.18.0-beta.2/Diastema-Setup-0.18.0-beta.2.exe",
-  "sha256": "d9059093a3570f9191808c90e4b76198670e3e0e0a845927a3731862ea7a0c10",
-  "size": 29578364,
-  "released": "2026-10-15T02:05:55.427Z",
-  "notes": "Settings → Practice (one place for the practice's name, address, email and phone); the privacy notice's facts as text in the notice; Patient email timeline as step tabs with each recall its own step; Diastema emailed / texted / confirmed statuses in Open Dental; Send forms in one click (Email, Text, Open on this device, Copy link); a Save question before leaving changed settings; Open Dental's button with no patient picked opens the home page.",
-  "signature": "OIbC4+wFE4jfqVw9BID3L3EfCh+C2/WpyL7SICm8hA+2PflH3YWLBpyZLnv5yzpl+fnZwspdJ1dwE2FEHcGcCQ=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.18.0-beta.3/Diastema-Setup-0.18.0-beta.3.exe",
+  "sha256": "4dcec7a0c1eee222d1aa64c03a578fd8d569e654e6363e5a7ab3cd5e69daa8f7",
+  "size": 29599478,
+  "released": "2026-10-16T11:50:49.640Z",
+  "notes": "Patient forms, ready for the form editor. The New patient form and the health history update are now one form, asked as either. Every office starts from Diastema's generic consents and email subjects: the consents have blanks for your practice's details and policy numbers, and they can't be sent to patients until your own wording is filled in. Diastema keeps a signed form's answers, signature and PDF for 30 days after it's filed in Open Dental, then only that it was signed and when. Patient emails record which wording they went out with.",
+  "signature": "ljpz9JsL+MO+n4Z7h4M/4XtMRRpzRqK8Wb/LyBJkgU1Yvqb4/6aAUabM4rBsX1XLeqUuBmJVtfN6YZSNaen5Cw=="
 }
