@@ -1,10 +1,10 @@
 {
-  "version": "0.19.0-beta.2",
+  "version": "0.19.0-beta.3",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.19.0-beta.2/Diastema-Setup-0.19.0-beta.2.exe",
-  "sha256": "d203cc6be8bc282c2eb523edb1bcc2b4b3c7ef5c6264b4e25efbca64565f6b3a",
-  "size": 29745229,
-  "released": "2026-10-17T16:45:18.230Z",
-  "notes": "Consents are now documents. Settings → Patient forms → Forms has a Policies group: the privacy notice, the consent for exam and X-rays and the office policy, each its own document, read and signed one after the other. Edit opens a simple text editor: paste your text from Word or Google Docs (fonts, colours, tables and pictures are left out), format it with headings, bold, italic, underline, lists, sizes and links, and use Insert for a checkbox, an initials box, or your practice's name, address, phone or email. English and Spanish are side by side, with a phone preview. New policy adds one; drag to change the order. Patients read each policy as one page (a short summary first when you set one), and after the first signature each next policy signs with one tap. Each signed policy is its own PDF in Open Dental with its whole text. Who we may discuss care with and detailed voicemails are now on the New patient form. Your current consents are converted on update, word for word.",
-  "signature": "wnnfPei+qLNJzHUINp4Pa3VREGny1AS4/if/IjuSsc2Lzde1HoUcP/6eTz1UJp9zFkP3XJmEdWMpCi6KG2rnCw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.19.0-beta.3/Diastema-Setup-0.19.0-beta.3.exe",
+  "sha256": "8523901774b584c7cef979dbfa1c8cd323791bf0076508704e7aeedf4a22835a",
+  "size": 29781519,
+  "released": "2026-10-17T21:44:33.403Z",
+  "notes": "0.19.0-beta.3: the intake editor revamp. The form canvas: the whole form in one list with Parts and Steps, a live phone preview beside it, a question's card opening in place, ready-made pieces, drag to reorder, where each answer goes in Open Dental, View as New patient or Update, a language picker and Translations tab, and the Conditions, Medications, Allergies and Referrals lists on tabs. Consents and pages are written as text, with risks initialled one by one, steps, Call us if lines, pictures and required confirmations; an older block consent or page offers a one-click conversion; the block editor is gone. The health form (version 3) asks one Yes or No before the nine condition groups: No skips them all and counts as No for each; on an Update it clears only the problems that were offered.",
+  "signature": "YIs9dtyquhwBfUIyCF8rWXzNvys8YstcnOsZ6eR+ZAvgL5HTAm50UYKQJ88jdezbjWS7dpCd1ycHBhMLBMkXBA=="
 }
