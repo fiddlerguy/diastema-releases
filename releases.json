@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.20.0-beta.1",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.1/Diastema-Setup-0.20.0-beta.1.exe",
+      "sha256": "be29d997f4213ccb96c721cf666529b339a48d768ec000895a0c179e7d3583ba",
+      "size": 29811177,
+      "released": "2026-10-18T04:26:31.202Z",
+      "notes": "0.20.0-beta.1: Stage 5 beta 1, procedure forms with badges only. Settings → Patient forms → Procedure forms: one table tying code groups to consents, before-visit and aftercare pages (16 starter rows, documents to pick). Appointments' procedures are read and matched; the schedule badge turns grey, amber or red for consents needed; a This visit block on the patient page; Follow-ups → Consents needed today (switch in the table's page); Sign now hands the device to the patient for this visit's consents and before-visit page; coverage rules (until done, for N months, until a new version). A procedure consent may publish with its Spanish still a draft. Import a file now takes a bundle of documents; Summerbrook's Flex consents and post-op pages come in that way. No sending yet (beta 2). Migration 18 part 1.",
+      "signature": "jZtZ9hxVdcAzwPenXrwJgCsIklj5jyG74UgeYjHwfRtKlRGXQQcNFNvHZA/tKp6mdeYy0LDMVTnhSXFaVugNCw=="
+    },
+    {
       "version": "0.19.0-beta.4",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.19.0-beta.4/Diastema-Setup-0.19.0-beta.4.exe",
