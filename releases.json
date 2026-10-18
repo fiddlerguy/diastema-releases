@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.20.0-beta.2",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.2/Diastema-Setup-0.20.0-beta.2.exe",
+      "sha256": "f9ea648b6de77296f53609c8260588bdb05f6b0c417518293321fdf485ec299b",
+      "size": 29830333,
+      "released": "2026-10-18T12:00:35.368Z",
+      "notes": "0.20.0-beta.2: Stage 5 beta 2. The dentist's co-sign on the staff side (Settings → People: Signs consents as; filing waits for the co-sign, or files with a note after the visit day). Print any published document, blank or filled in for a patient and appointment. Signed on paper files the photo and counts as signed. Changed after signing turns the badge red and adds a fresh consent (no automatic email). Planned treatment consents ready to sign. Sending: three timeline steps (Procedure forms 3 days before, a reminder the day before while unsigned, Aftercare when the appointment is set complete), two letters with Edit template, comm log lines for sends and reads, the aftercare page on the one link with Save as PDF. The Forms card's Changes from forms fits a phone screen. Migration 19. Real sends need edge 0.20.0.",
+      "signature": "g0aG2t3pqw/vnnuQEV7bAn6qA8Bvh6xeef8xNMHcqlkmZR0XdtBeNGTB1HHA9x+DXPuhzXT6R++ZI8swOD06Aw=="
+    },
+    {
       "version": "0.20.0-beta.1",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.1/Diastema-Setup-0.20.0-beta.1.exe",
