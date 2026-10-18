@@ -1,10 +1,10 @@
 {
-  "version": "0.19.0-beta.3",
+  "version": "0.19.0-beta.4",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.19.0-beta.3/Diastema-Setup-0.19.0-beta.3.exe",
-  "sha256": "8523901774b584c7cef979dbfa1c8cd323791bf0076508704e7aeedf4a22835a",
-  "size": 29781519,
-  "released": "2026-10-17T21:44:33.403Z",
-  "notes": "0.19.0-beta.3: the intake editor revamp. The form canvas: the whole form in one list with Parts and Steps, a live phone preview beside it, a question's card opening in place, ready-made pieces, drag to reorder, where each answer goes in Open Dental, View as New patient or Update, a language picker and Translations tab, and the Conditions, Medications, Allergies and Referrals lists on tabs. Consents and pages are written as text, with risks initialled one by one, steps, Call us if lines, pictures and required confirmations; an older block consent or page offers a one-click conversion; the block editor is gone. The health form (version 3) asks one Yes or No before the nine condition groups: No skips them all and counts as No for each; on an Update it clears only the problems that were offered.",
-  "signature": "YIs9dtyquhwBfUIyCF8rWXzNvys8YstcnOsZ6eR+ZAvgL5HTAm50UYKQJ88jdezbjWS7dpCd1ycHBhMLBMkXBA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.19.0-beta.4/Diastema-Setup-0.19.0-beta.4.exe",
+  "sha256": "f67865e742c1cbcb5fb2155a44f9048fa8779c632dd4a78f868829d07f06ce0d",
+  "size": 29791578,
+  "released": "2026-10-18T03:02:21.502Z",
+  "notes": "0.19.0-beta.4: intake editor round 2. Canvas: Undo and Redo, Delete on added items, grey-out or hide the other packet's items, the Update explained, no scroll jump on redraws. Tabs: add and remove a condition category, one Referrals tick list. Text editor: centre or right alignment, the language picker. Policies: Refuse ends without a signature (the PDF says who refused and when), checkboxes and initials boxes in a policy's summary (the exam consent and office policy starters move theirs there). Publish is disabled with no changes; Discard fixed, also from History.",
+  "signature": "+0zqE3Mj6POw32aR4ezygoWc0XoFIx8/5Rl/moVGV/Lwm0WXbG70p9B5mFernabkfiRLXRNnCc2ltQhpCibFDQ=="
 }
