@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.21.0-beta.1",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.21.0-beta.1/Diastema-Setup-0.21.0-beta.1.exe",
+      "sha256": "d6b942daab665852ea50f25ee4c5a1d36ef3886dba11751f10645eee4de5286f",
+      "size": 29954490,
+      "released": "2026-10-19T19:42:34.338Z",
+      "notes": "Compliance beta 1: the Compliance page (people with roles, credentials with card photos and history, equipment with recurring checks, due checks as Tasks that complete only by logging, failed checks with a manager's task, the daily job, the Texas starter list of requirements), the Manage compliance permission and the compliance switch (needs Tasks; edge 0.21.0 must know it). Migration 25.",
+      "signature": "PPUSR2S+phVrUbLzsbJ2u0Ks6WKxyD9q1jyuppHJdgsCDOcE0hCx2cLC8LB3eXr19WG2hkRlPK6aXoSzJDbwCw=="
+    },
+    {
       "version": "0.20.0-beta.6",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.6/Diastema-Setup-0.20.0-beta.6.exe",
