@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.20.0-beta.4",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.4/Diastema-Setup-0.20.0-beta.4.exe",
+      "sha256": "1d45886aa11156d6aef6e48e6f7c4d09996ad97bd5c52488178127e083bb11e4",
+      "size": 29900900,
+      "released": "2026-10-19T15:30:04.489Z",
+      "notes": "Fixes from the October 18 QA pass. Patient form answers are checked before they reach Open Dental (dates can't be in the future, hidden characters and emoji are removed, states must be real) and Undo works even when Open Dental changed the note. Settings refuse bad GapCheck codes and numbers instead of breaking the GapCheck screen, and two tabs saving the same settings no longer overwrite each other silently. Every date in an address or a form is checked the same way. A tab locks as soon as another tab signs out. Security headers on the staff app. Follow-up dates can't be set in the past, and a moved follow-up says who moved it, when, and what the schedule had. Patient search finds a first name on its own. Reopening a done weekly task no longer makes a duplicate. Cancelled form packets say so instead of 'complete'. Keyboard and screen-reader fixes across dialogs and menus.",
+      "signature": "2Jed21fThxVXif9aTM1NrDlgBNLR9c6CsKnfsDNQJGak9Kj5iIF5acItHshLiOj36RjGe+wPA9axB3C42FINBw=="
+    },
+    {
       "version": "0.20.0-beta.3",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.3/Diastema-Setup-0.20.0-beta.3.exe",
