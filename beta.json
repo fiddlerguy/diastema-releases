@@ -1,10 +1,10 @@
 {
-  "version": "0.20.0-beta.3",
+  "version": "0.20.0-beta.4",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.3/Diastema-Setup-0.20.0-beta.3.exe",
-  "sha256": "38ee73f057f85c02cbcdce92f229a9e4f42a5950b521c72db77d94ddf63695bb",
-  "size": 29873473,
-  "released": "2026-10-18T13:12:32.538Z",
-  "notes": "0.20.0-beta.3: Stage 5 beta 3, the last of Stage 5. The Library (a new menu item): Patient forms, Procedure forms, Setup sheets, SOPs and Files, search in both languages, print any document blank or several together as a packet, an English/Spanish switch, uploads of PDFs and photos (migration 20). Setup sheets: a Setup sheet column and single-code links in Settings → Procedure forms, the Setup tag on the schedule, every sheet for an appointment under a header with the patient's alerts from Open Dental, Today's setups by operatory. Permissions Edit library (managers) and Edit setup sheets. Diastema's generic starters: 13 consents, 7 before-visit pages and 15 aftercare pages in English and Spanish, drafts to take or ignore; nothing is sent until the office publishes its own. SOP owners, review dates and required reading come with Compliance.",
-  "signature": "anGupXtZEirsq2m1qHliss+1Wz8rzNFT8dvLggaCnQ57pMFYer1IG1roqqpQBbsQDq4zNqGfjXMXGSRZ7U8xBw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.4/Diastema-Setup-0.20.0-beta.4.exe",
+  "sha256": "1d45886aa11156d6aef6e48e6f7c4d09996ad97bd5c52488178127e083bb11e4",
+  "size": 29900900,
+  "released": "2026-10-19T15:30:04.489Z",
+  "notes": "Fixes from the October 18 QA pass. Patient form answers are checked before they reach Open Dental (dates can't be in the future, hidden characters and emoji are removed, states must be real) and Undo works even when Open Dental changed the note. Settings refuse bad GapCheck codes and numbers instead of breaking the GapCheck screen, and two tabs saving the same settings no longer overwrite each other silently. Every date in an address or a form is checked the same way. A tab locks as soon as another tab signs out. Security headers on the staff app. Follow-up dates can't be set in the past, and a moved follow-up says who moved it, when, and what the schedule had. Patient search finds a first name on its own. Reopening a done weekly task no longer makes a duplicate. Cancelled form packets say so instead of 'complete'. Keyboard and screen-reader fixes across dialogs and menus.",
+  "signature": "2Jed21fThxVXif9aTM1NrDlgBNLR9c6CsKnfsDNQJGak9Kj5iIF5acItHshLiOj36RjGe+wPA9axB3C42FINBw=="
 }
