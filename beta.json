@@ -1,10 +1,10 @@
 {
-  "version": "0.20.0-beta.5",
+  "version": "0.20.0-beta.6",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.5/Diastema-Setup-0.20.0-beta.5.exe",
-  "sha256": "3c9d9153735d6134280db9e6aedecfb634f67cebba14f11626262eaa870bb2c1",
-  "size": 29907172,
-  "released": "2026-10-19T16:36:44.760Z",
-  "notes": "Ready-made consents and pages can be used as they are (Use as is). Procedure forms settings in two panes, with code groups to pick from. Tasks: steps to check off and the newest comments in the list. Visual schedule shows blockouts with their titles. Patient page: Photo, one picture or a multi-page PDF into the patient's Images.",
-  "signature": "ove+uLvi+BIxxTH6bhKy26FTOlZ0KeWyowpFeL35N5MlmAGSJLtV64oM7ieixK9HG54pc/QDRLzA3qswxittAg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.6/Diastema-Setup-0.20.0-beta.6.exe",
+  "sha256": "f2834058290c1ea35151396dd1b14625c34f63183a4154a1730c240692d548f8",
+  "size": 29907062,
+  "released": "2026-10-19T18:10:50.308Z",
+  "notes": "Diastema's consents, before-visit and aftercare pages are ready to use from the start (published as the office's own, editable). New Fillings consent in English and Spanish. Aftercare pain advice filled in. Settings → Patient forms lists Consents and Pages under their own headings. Procedure forms groups pick code groups. Patient page Send forms → Consent: any consent with a tooth, quadrant or arch picker and the dentist.",
+  "signature": "pskKaNb2Nm49fYwh4twVn5I9juuEAYSvS6aGp1xZjbUEN3k5+/w4/qE8XDlJjKiKc6uGQ+MsdcyrFdqd37LBBw=="
 }
