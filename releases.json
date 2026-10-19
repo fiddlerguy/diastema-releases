@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.20.0-beta.6",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.6/Diastema-Setup-0.20.0-beta.6.exe",
+      "sha256": "f2834058290c1ea35151396dd1b14625c34f63183a4154a1730c240692d548f8",
+      "size": 29907062,
+      "released": "2026-10-19T18:10:50.308Z",
+      "notes": "Diastema's consents, before-visit and aftercare pages are ready to use from the start (published as the office's own, editable). New Fillings consent in English and Spanish. Aftercare pain advice filled in. Settings → Patient forms lists Consents and Pages under their own headings. Procedure forms groups pick code groups. Patient page Send forms → Consent: any consent with a tooth, quadrant or arch picker and the dentist.",
+      "signature": "pskKaNb2Nm49fYwh4twVn5I9juuEAYSvS6aGp1xZjbUEN3k5+/w4/qE8XDlJjKiKc6uGQ+MsdcyrFdqd37LBBw=="
+    },
+    {
       "version": "0.20.0-beta.5",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.5/Diastema-Setup-0.20.0-beta.5.exe",
