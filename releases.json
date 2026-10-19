@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.20.0-beta.5",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.5/Diastema-Setup-0.20.0-beta.5.exe",
+      "sha256": "3c9d9153735d6134280db9e6aedecfb634f67cebba14f11626262eaa870bb2c1",
+      "size": 29907172,
+      "released": "2026-10-19T16:36:44.760Z",
+      "notes": "Ready-made consents and pages can be used as they are (Use as is). Procedure forms settings in two panes, with code groups to pick from. Tasks: steps to check off and the newest comments in the list. Visual schedule shows blockouts with their titles. Patient page: Photo, one picture or a multi-page PDF into the patient's Images.",
+      "signature": "ove+uLvi+BIxxTH6bhKy26FTOlZ0KeWyowpFeL35N5MlmAGSJLtV64oM7ieixK9HG54pc/QDRLzA3qswxittAg=="
+    },
+    {
       "version": "0.20.0-beta.4",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.4/Diastema-Setup-0.20.0-beta.4.exe",
