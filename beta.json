@@ -1,10 +1,10 @@
 {
-  "version": "0.20.0-beta.6",
+  "version": "0.21.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.20.0-beta.6/Diastema-Setup-0.20.0-beta.6.exe",
-  "sha256": "f2834058290c1ea35151396dd1b14625c34f63183a4154a1730c240692d548f8",
-  "size": 29907062,
-  "released": "2026-10-19T18:10:50.308Z",
-  "notes": "Diastema's consents, before-visit and aftercare pages are ready to use from the start (published as the office's own, editable). New Fillings consent in English and Spanish. Aftercare pain advice filled in. Settings → Patient forms lists Consents and Pages under their own headings. Procedure forms groups pick code groups. Patient page Send forms → Consent: any consent with a tooth, quadrant or arch picker and the dentist.",
-  "signature": "pskKaNb2Nm49fYwh4twVn5I9juuEAYSvS6aGp1xZjbUEN3k5+/w4/qE8XDlJjKiKc6uGQ+MsdcyrFdqd37LBBw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.21.0-beta.1/Diastema-Setup-0.21.0-beta.1.exe",
+  "sha256": "d6b942daab665852ea50f25ee4c5a1d36ef3886dba11751f10645eee4de5286f",
+  "size": 29954490,
+  "released": "2026-10-19T19:42:34.338Z",
+  "notes": "Compliance beta 1: the Compliance page (people with roles, credentials with card photos and history, equipment with recurring checks, due checks as Tasks that complete only by logging, failed checks with a manager's task, the daily job, the Texas starter list of requirements), the Manage compliance permission and the compliance switch (needs Tasks; edge 0.21.0 must know it). Migration 25.",
+  "signature": "PPUSR2S+phVrUbLzsbJ2u0Ks6WKxyD9q1jyuppHJdgsCDOcE0hCx2cLC8LB3eXr19WG2hkRlPK6aXoSzJDbwCw=="
 }
