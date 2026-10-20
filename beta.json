@@ -1,10 +1,10 @@
 {
-  "version": "0.22.0",
+  "version": "0.23.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.22.0/Diastema-Setup-0.22.0.exe",
-  "sha256": "588855505389f75ca44c7c2058168674b69193df316b41d44d2fc19d1fc9cef4",
-  "size": 30108509,
-  "released": "2026-10-20T19:51:57.892Z",
-  "notes": "0.22.0 to stable: the treatment presentation module (whole-mouth plans, presenting and signing, the owner's decisions and small items), plus everything since 0.17.0: patient forms (editor, consents and policies, procedure forms, the Library), Compliance, the QA fixes and the schedule, task and photo updates.",
-  "signature": "ijFLM5PlsW/pNI5JbXL58jB5x2HTIURPvujKPwFqX/YEQWEA/kW4cnGy+UyIJjcVvfcNrm/jpwLMtzFMBOV7Bg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.23.0-beta.1/Diastema-Setup-0.23.0-beta.1.exe",
+  "sha256": "8b53567ab22c82d7a0583c712e0b0e96791212fcc38fa0355dfaeea672b339c5",
+  "size": 30137498,
+  "released": "2026-10-20T23:25:01.197Z",
+  "notes": "0.23.0-beta.1: the owner's to-do list. PIN pad on sign-in and the Staff drawer; readable name menu; staff can show hidden payment options (setting); unscheduled treatment follow-ups only for treatment planned in the last 6 months (setting); original due date on the changed-date flag and click a due date to change it; Follow Up pop-up in the app's colors; Send forms opens on the forms due, Pick forms without consents, several consents in one send; office colors, logo and contact line on Settings > Practice; shared email sections in the forms editor's style with formatting; shorter Treatment Plan rows, 10 per page; Take a photo on Signed on paper; Compliance spacing, Requirements delete/restore, Edit mode and the citation line; attention dots instead of the drill bar; overlapping blocks on the visual schedule and blockout notes; the form editor preview loads again.",
+  "signature": "jaRbqfhZ1lmKR2AsoqtWnggbOPHCARYg7a7ZeAbhC3QmBYytOCgWd2N12h6Xw0rHsNdzvf9gjSOBUf/Vj9QiBw=="
 }
