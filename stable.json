@@ -1,10 +1,10 @@
 {
-  "version": "0.17.0",
+  "version": "0.22.0",
   "channel": "stable",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.17.0/Diastema-Setup-0.17.0.exe",
-  "sha256": "b9a118f9040a54d5e78e92cc3e050e11a5f684d942e968e2ba2ab5076c086ae6",
-  "size": 29345447,
-  "released": "2026-10-14T17:17:19.178Z",
-  "notes": "The installer checks that its port is free and offers another if a program already uses it. Setup finds Open Dental's API service on this computer and says whether the address works.",
-  "signature": "4z0/rtfWPCn3hFUcYshamp5sDXbCSQDVNu0x9mgW/aUdrewusEOzvA5FNCxv4ssKISzjINvGmaPGQpDgydHhAA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.22.0/Diastema-Setup-0.22.0.exe",
+  "sha256": "588855505389f75ca44c7c2058168674b69193df316b41d44d2fc19d1fc9cef4",
+  "size": 30108509,
+  "released": "2026-10-20T19:51:57.892Z",
+  "notes": "0.22.0 to stable: the treatment presentation module (whole-mouth plans, presenting and signing, the owner's decisions and small items), plus everything since 0.17.0: patient forms (editor, consents and policies, procedure forms, the Library), Compliance, the QA fixes and the schedule, task and photo updates.",
+  "signature": "6YCjDAv11Zniu4gX7Dy0gOf4A1zLIqSc+DL7iPwMaehLvObSJGcLx8ryWZ0cE3omCFSJE5zdKWiQhVbq88oDDA=="
 }
