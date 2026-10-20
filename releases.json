@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.21.0-beta.3",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.21.0-beta.3/Diastema-Setup-0.21.0-beta.3.exe",
+      "sha256": "7dac74410965724954f72b6ebf923b42c544f1302b85d7a9c737dd08aa7ef47f",
+      "size": 29995885,
+      "released": "2026-10-20T00:16:43.465Z",
+      "notes": "Compliance beta 3: trainings (HIPAA privacy and security, bloodborne pathogens, hazard communication, and reading the x-ray operating procedures; a new hire's first one is due 90 days after their hire date, then each year by Dec 31, and bloodborne pathogens and x-ray procedures never more than 12 months apart; upload a certificate or tap I've read this), required reading (a Library SOP page with required roles asks everyone in those roles to read it, and asks again when you publish a new version unless you choose Don't re-ask; managers see Read by N of M), the Monday summary email to everyone who manages compliance (what's overdue, due soon or failed, with names and dates only; set the day and hour in Settings), the inspection binder (one zip with a PDF of everything for the dates you choose, plus the cards and certificates as they were uploaded), and importing people and credentials from a spreadsheet. Migration 27. The summary email needs edge 0.21.0.",
+      "signature": "p2gVdx81nt1vwrXMEJ+wDR+MfepXlXIr2/VwoaVIs3oyWmWDF4RdBm5rJzt+yLkNc4SdaXxGD7jT6ZuwfAUdAg=="
+    },
+    {
       "version": "0.21.0-beta.2",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.21.0-beta.2/Diastema-Setup-0.21.0-beta.2.exe",
