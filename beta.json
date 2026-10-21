@@ -1,10 +1,10 @@
 {
-  "version": "0.23.0-beta.1",
+  "version": "0.23.0",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.23.0-beta.1/Diastema-Setup-0.23.0-beta.1.exe",
-  "sha256": "8b53567ab22c82d7a0583c712e0b0e96791212fcc38fa0355dfaeea672b339c5",
-  "size": 30137498,
-  "released": "2026-10-20T23:25:01.197Z",
-  "notes": "0.23.0-beta.1: the owner's to-do list. PIN pad on sign-in and the Staff drawer; readable name menu; staff can show hidden payment options (setting); unscheduled treatment follow-ups only for treatment planned in the last 6 months (setting); original due date on the changed-date flag and click a due date to change it; Follow Up pop-up in the app's colors; Send forms opens on the forms due, Pick forms without consents, several consents in one send; office colors, logo and contact line on Settings > Practice; shared email sections in the forms editor's style with formatting; shorter Treatment Plan rows, 10 per page; Take a photo on Signed on paper; Compliance spacing, Requirements delete/restore, Edit mode and the citation line; attention dots instead of the drill bar; overlapping blocks on the visual schedule and blockout notes; the form editor preview loads again.",
-  "signature": "jaRbqfhZ1lmKR2AsoqtWnggbOPHCARYg7a7ZeAbhC3QmBYytOCgWd2N12h6Xw0rHsNdzvf9gjSOBUf/Vj9QiBw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.23.0/Diastema-Setup-0.23.0.exe",
+  "sha256": "cf774d4251364233bd482b2387de41fc369c94b5515d55657541f4db5bfef20f",
+  "size": 30142866,
+  "released": "2026-10-21T03:04:51.159Z",
+  "notes": "0.23.0 (stable): the owner's to-do list. Sign-in and Staff drawer PIN pad; readable name menu; office colors, logo and contact line on Settings > Practice; shared email sections editor with formatting; Send forms opens on the forms due, several consents in one send, Pick forms without consents; unscheduled treatment follow-ups only for treatment planned in the last 6 months; original due date on hover and click a due date to change it; Follow Up pop-up in the app's colors; shorter Treatment Plan rows, 10 per page; Take a photo on Signed on paper; Compliance spacing, Requirements delete/restore, Edit mode, citation line; attention dots instead of the drill bar; overlapping blocks and blockout notes on the visual schedule; the discount card says the saving; payment plans say payments, not months; collapsed terms in the Staff drawer; Back to Diastema as the staff member who unlocked the drawer; one toolbox for open and presented plans; staff can show hidden payment options (setting); the form editor preview loads again.",
+  "signature": "v+QHBtZu9SEV3DLSD/ho/kAhfy/bf2yIFPPMIht0ckbkLk9kBkLPVM/cGt4mNhnNfKTEshC34U+5gQLKsAARDA=="
 }
