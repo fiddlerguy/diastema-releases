@@ -1,10 +1,10 @@
 {
-  "version": "0.22.0",
+  "version": "0.23.0",
   "channel": "stable",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.22.0/Diastema-Setup-0.22.0.exe",
-  "sha256": "588855505389f75ca44c7c2058168674b69193df316b41d44d2fc19d1fc9cef4",
-  "size": 30108509,
-  "released": "2026-10-20T19:51:57.892Z",
-  "notes": "0.22.0 to stable: the treatment presentation module (whole-mouth plans, presenting and signing, the owner's decisions and small items), plus everything since 0.17.0: patient forms (editor, consents and policies, procedure forms, the Library), Compliance, the QA fixes and the schedule, task and photo updates.",
-  "signature": "6YCjDAv11Zniu4gX7Dy0gOf4A1zLIqSc+DL7iPwMaehLvObSJGcLx8ryWZ0cE3omCFSJE5zdKWiQhVbq88oDDA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.23.0/Diastema-Setup-0.23.0.exe",
+  "sha256": "cf774d4251364233bd482b2387de41fc369c94b5515d55657541f4db5bfef20f",
+  "size": 30142866,
+  "released": "2026-10-21T03:04:51.159Z",
+  "notes": "0.23.0 (stable): the owner's to-do list. Sign-in and Staff drawer PIN pad; readable name menu; office colors, logo and contact line on Settings > Practice; shared email sections editor with formatting; Send forms opens on the forms due, several consents in one send, Pick forms without consents; unscheduled treatment follow-ups only for treatment planned in the last 6 months; original due date on hover and click a due date to change it; Follow Up pop-up in the app's colors; shorter Treatment Plan rows, 10 per page; Take a photo on Signed on paper; Compliance spacing, Requirements delete/restore, Edit mode, citation line; attention dots instead of the drill bar; overlapping blocks and blockout notes on the visual schedule; the discount card says the saving; payment plans say payments, not months; collapsed terms in the Staff drawer; Back to Diastema as the staff member who unlocked the drawer; one toolbox for open and presented plans; staff can show hidden payment options (setting); the form editor preview loads again.",
+  "signature": "MlSynqKw3VWgvXcTvc8kkmAjawSApxIH7Vgx6vbvDiG35c6nAjAHTm1No684JXwFt91fqfFTdiiPeBhiXWLnBw=="
 }
