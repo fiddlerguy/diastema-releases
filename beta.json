@@ -1,10 +1,10 @@
 {
-  "version": "0.23.0",
+  "version": "0.24.0-beta.2",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.23.0/Diastema-Setup-0.23.0.exe",
-  "sha256": "cf774d4251364233bd482b2387de41fc369c94b5515d55657541f4db5bfef20f",
-  "size": 30142866,
-  "released": "2026-10-21T03:04:51.159Z",
-  "notes": "0.23.0 (stable): the owner's to-do list. Sign-in and Staff drawer PIN pad; readable name menu; office colors, logo and contact line on Settings > Practice; shared email sections editor with formatting; Send forms opens on the forms due, several consents in one send, Pick forms without consents; unscheduled treatment follow-ups only for treatment planned in the last 6 months; original due date on hover and click a due date to change it; Follow Up pop-up in the app's colors; shorter Treatment Plan rows, 10 per page; Take a photo on Signed on paper; Compliance spacing, Requirements delete/restore, Edit mode, citation line; attention dots instead of the drill bar; overlapping blocks and blockout notes on the visual schedule; the discount card says the saving; payment plans say payments, not months; collapsed terms in the Staff drawer; Back to Diastema as the staff member who unlocked the drawer; one toolbox for open and presented plans; staff can show hidden payment options (setting); the form editor preview loads again.",
-  "signature": "v+QHBtZu9SEV3DLSD/ho/kAhfy/bf2yIFPPMIht0ckbkLk9kBkLPVM/cGt4mNhnNfKTEshC34U+5gQLKsAARDA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.24.0-beta.2/Diastema-Setup-0.24.0-beta.2.exe",
+  "sha256": "0c09beffa7adb0e0b124a8f8604edf7f47ff2d211bf1f4c1dec6352f640f39a0",
+  "size": 30251804,
+  "released": "2026-10-24T22:00:57.818Z",
+  "notes": "Card payments (beta, off until Diastema support sets up the office's Moolah account):\n- Take a card payment on the office terminal from the patient page, posted to Open Dental with a receipt.\n- Cards on file: save a patient's card on the new Cards card and charge it later, with the patient present or not.\n- Pay now after a plan is signed: on the terminal, with a card on file or a new card on the presenting device, and on the online plan page.\n- The Payments page: every card payment, whether it is in Open Dental, voids and refunds, and a No-shows list for appointments held with a card.\n- Settings → Payments: payment types, receipts, card holds and the no-show fee, and Moolah's payment notices.",
+  "signature": "2mgmQq45DSTlk4E+kum5W+jqlPVAvn701EAzSFnF2z10eF5KcvcNJ5bMCCsdJiRiJix15GbVGK7uwxkKqSBCDw=="
 }
