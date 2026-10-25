@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.24.0-beta.5",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.24.0-beta.5/Diastema-Setup-0.24.0-beta.5.exe",
+      "sha256": "f338fa636bcd1817b07030a5783366fb3419f2177ac879db4a411cc5e472b9dd",
+      "size": 30253711,
+      "released": "2026-10-25T02:01:40.846Z",
+      "notes": "Card payments (beta, off until Diastema support sets up the office's Moolah account):\n- Take a card payment on the office terminal from the patient page, posted to Open Dental with a receipt.\n- Cards on file: save a patient's card on the new Cards card and charge it later, with the patient present or not.\n- Pay now after a plan is signed: on the terminal, with a card on file or a new card on the presenting device, and on the online plan page.\n- The Payments page: every card payment, whether it is in Open Dental, voids and refunds, and a No-shows list for appointments held with a card.\n- Settings → Payments: payment types, receipts, card holds and the no-show fee, and Moolah's payment notices.\n- Card payments are set up entirely by Diastema support: nothing to press at the office (Moolah's payment notices register by themselves).\n- Card payments: Moolah's payment notices are checked against more signing forms, and Settings → Payments shows how the last one was signed.\n- Card payments: Moolah's payment notices are registered again with a fresh key where an earlier beta kept the wrong one.",
+      "signature": "7+2eHkt7/u8HFMIUZ/84QM2ofrCqsZ/3SI4l98Okz3i6a62U8AEEMvz97Oqh2g6h5u3OHBzRaglHXD0bKIOSAQ=="
+    },
+    {
       "version": "0.24.0-beta.4",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.24.0-beta.4/Diastema-Setup-0.24.0-beta.4.exe",
