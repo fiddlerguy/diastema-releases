@@ -1,10 +1,10 @@
 {
-  "version": "0.25.0-beta.1",
+  "version": "0.25.0-beta.2",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.25.0-beta.1/Diastema-Setup-0.25.0-beta.1.exe",
-  "sha256": "2fa3e3d0a0b2113a726addc47d08a799897a718a1976eb1c50ff87da45da2e76",
-  "size": 30393886,
-  "released": "2026-10-25T20:01:35.717Z",
-  "notes": "Texting beta 1: a shared Texts inbox for two-way texting through Telnyx, in test mode (staff phones only). Incoming texts land in Needs reply until someone replies or marks them done; read marks are per person; Hand off flags a thread and passes it to the front desk; internal notes; STOP and START honored; every text in or out goes to the Open Dental comm log. Needs edge 0.27.0 and the owner's Telnyx setup on the edge. Automatic texts, forms and plan links by text come in later betas.",
-  "signature": "VyBJZaEGAfBwM1MtnROfEGTipdNmdLTQCdB0phPuTvOX6ApW88CSQs9lEjtej0Wmz9aa923hBS05DTsan6ypAQ=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.25.0-beta.2/Diastema-Setup-0.25.0-beta.2.exe",
+  "sha256": "7a183544d144c14264f9727cef974c7d7fa3c65779b878dab1f5abd67afdc980",
+  "size": 30393664,
+  "released": "2026-10-25T20:18:11.849Z",
+  "notes": "Texting beta 2: when a patient texts STOP, Open Dental's OK to text is set to No for the patients on that number, and START sets it back to Yes (a switch in Settings → Texting, on by default). Emoji in a text are written as [emoji] in Open Dental's comm log, which can't store them.",
+  "signature": "WxPmyAfyK68d43Bfme1N9sDExCwjdfcgI/crNrDHcrBloXAu+Sz1+BPIXGcFuIsIcF0po9DcNwRPqwf1IcWpAQ=="
 }
