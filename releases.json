@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.24.0-beta.9",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.24.0-beta.9/Diastema-Setup-0.24.0-beta.9.exe",
+      "sha256": "5ea4bb0265c6a83c19d70d8ac7346c7bf8a729e24522ecc5da1d4c57041f429d",
+      "size": 30346873,
+      "released": "2026-10-25T17:47:22.246Z",
+      "notes": "Card payments release 4: statements and pay links. Send statement from the patient page (the family ledger by visit), a statement email with one Pay button, resends of unopened statements, the pay page behind the birthdate check (stored card or a new card, Pay a different amount, View statement), missed plan payments paid from the same page, and the Statements and Patients with balances tabs on the Payments page. Also carries release 3 (payment plans). Needs edge 0.26.0.",
+      "signature": "Iv2+IKno8lwbHD1kIKHdnxWGqHSN2LPbBUOEhskNsuSmufqK77RaajEauEtKsW+PKAw2M4VMjVANUoZko/ThBQ=="
+    },
+    {
       "version": "0.24.0-beta.8",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.24.0-beta.8/Diastema-Setup-0.24.0-beta.8.exe",
