@@ -1,10 +1,10 @@
 {
-  "version": "0.24.0-beta.7",
+  "version": "0.24.0-beta.8",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.24.0-beta.7/Diastema-Setup-0.24.0-beta.7.exe",
-  "sha256": "ee127b19aa839acd300f706b76f81c1292b9b98468efde8280e7e95ef80922a2",
-  "size": 30255250,
-  "released": "2026-10-25T04:26:31.309Z",
-  "notes": "Card payments: Diastema support can now see from its own dashboard whether Moolah's payment notices reach this office, and can turn on this office's secure address when card payments need it, so nobody at the office has to change a setting.",
-  "signature": "/vWehEeiH/yzIZojLDKpTqI6zRyuiUuZ40vDldoz4ojP/p7sW1b2kjG0QCbCzys/1LtZoTVORlhpVNo8GyTUBg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.24.0-beta.8/Diastema-Setup-0.24.0-beta.8.exe",
+  "sha256": "2dc6a63684ea19cc1a0a4d22b08e5bedea5b26de71fd814c03342116d9535be8",
+  "size": 30302200,
+  "released": "2026-10-25T17:24:37.091Z",
+  "notes": "Card payments release 3: payment plans run by Diastema. The 2- and 3-payment cards set up from Present mode after signing (down payment today on the card, then the payments on their dates), New payment plan on the patient page, the daily charge at the office's charge hour with retries and past-due follow-ups, staff actions (Charge now, Skip, Move a date, Replace card, Pause, Cancel, Mark paid otherwise), the Payment plans tab, and an optional Open Dental payment plan mode. Needs edge 0.26.0.",
+  "signature": "2GLY24ljglKtaAUSQYuqgRAI2qN1YuNiSvcCDHXrElQV5xT3qN7kbuMgEbeN2ebkLzQf0yVS1goGQn7iAb8CAA=="
 }
