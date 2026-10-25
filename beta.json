@@ -1,10 +1,10 @@
 {
-  "version": "0.24.0-beta.8",
+  "version": "0.24.0-beta.9",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.24.0-beta.8/Diastema-Setup-0.24.0-beta.8.exe",
-  "sha256": "2dc6a63684ea19cc1a0a4d22b08e5bedea5b26de71fd814c03342116d9535be8",
-  "size": 30302200,
-  "released": "2026-10-25T17:24:37.091Z",
-  "notes": "Card payments release 3: payment plans run by Diastema. The 2- and 3-payment cards set up from Present mode after signing (down payment today on the card, then the payments on their dates), New payment plan on the patient page, the daily charge at the office's charge hour with retries and past-due follow-ups, staff actions (Charge now, Skip, Move a date, Replace card, Pause, Cancel, Mark paid otherwise), the Payment plans tab, and an optional Open Dental payment plan mode. Needs edge 0.26.0.",
-  "signature": "2GLY24ljglKtaAUSQYuqgRAI2qN1YuNiSvcCDHXrElQV5xT3qN7kbuMgEbeN2ebkLzQf0yVS1goGQn7iAb8CAA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.24.0-beta.9/Diastema-Setup-0.24.0-beta.9.exe",
+  "sha256": "5ea4bb0265c6a83c19d70d8ac7346c7bf8a729e24522ecc5da1d4c57041f429d",
+  "size": 30346873,
+  "released": "2026-10-25T17:47:22.246Z",
+  "notes": "Card payments release 4: statements and pay links. Send statement from the patient page (the family ledger by visit), a statement email with one Pay button, resends of unopened statements, the pay page behind the birthdate check (stored card or a new card, Pay a different amount, View statement), missed plan payments paid from the same page, and the Statements and Patients with balances tabs on the Payments page. Also carries release 3 (payment plans). Needs edge 0.26.0.",
+  "signature": "Iv2+IKno8lwbHD1kIKHdnxWGqHSN2LPbBUOEhskNsuSmufqK77RaajEauEtKsW+PKAw2M4VMjVANUoZko/ThBQ=="
 }
