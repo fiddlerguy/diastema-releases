@@ -1,10 +1,10 @@
 {
-  "version": "0.26.0-beta.1",
+  "version": "0.26.0-beta.2",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.1/Diastema-Setup-0.26.0-beta.1.exe",
-  "sha256": "7fbfd065b9b700113d0f5d349f142046281cba64313f08f00b21d7f3c1ec54e5",
-  "size": 30401441,
-  "released": "2026-10-26T02:14:05.544Z",
-  "notes": "Payment plans: Settings → Payment plans keeps the office's saved plans (title, payments, every month or every 2 weeks, down payment Off/Optional/Required, patient portion range, only-when codes, offer on treatment plans) and the longest plan; treatment plans show the saved plans; New payment plan starts from one; every plan's dates follow the first payment's date. Accepted treatment plans open as accepted (chosen option marked, signature shown) with View signed PDF and Clear signature.",
-  "signature": "YJfi0eJ7v7mgOMaOU5Mv+muGEuMpj/14MrHkovX5Czz0ArXUKkNZQ2oyDIVE6G1fqWmAb1ZYzN0oIup3EmcCCg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.2/Diastema-Setup-0.26.0-beta.2.exe",
+  "sha256": "5dabbeb204607e5b81a16ce083e3786be6bb7c1dc3f31ba6f8b45775bf9cfa6e",
+  "size": 30418758,
+  "released": "2026-10-26T04:18:18.304Z",
+  "notes": "Texting beta 2: Send forms and treatment plans by text, follow-up texts from the follow-up window, a missed-call text and an after-hours auto-reply (both off until you turn them on), Make a task from a text, New text and Insert link, a templates editor in English and Spanish, and the composer on the patient page. Texting's mode and test numbers now come from Diastema support's settings on the edge (edge 0.27.2); the office sets nothing by hand. Needs edge 0.27.2.",
+  "signature": "HwHUAfTmjx+sIiZF7LUdsDQv4/BcyAeRCrwRwHF79qfsMv1d0Nw+SQFe+FFkqe8WvGJC5tc7vqrqwDqV3IhFDQ=="
 }
