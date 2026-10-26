@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.26.0-beta.3",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.3/Diastema-Setup-0.26.0-beta.3.exe",
+      "sha256": "6cf8554eda10863c7857f21c4acf80759df83928c54665a46c6d0351be8f283a",
+      "size": 30423713,
+      "released": "2026-10-26T18:12:15.114Z",
+      "notes": "Texting: office hours are now set in Settings → Practice and drive the after-hours reply and the missed-call wording (Open Dental's schedule is the fallback); the missed-call text goes to every caller, patient or not; templates may use the practice name and phone and are no longer checked for procedure codes; Send forms → Consent → Text sends through Diastema with one comm log line. Needs edge 0.27.2.",
+      "signature": "qldhOoBG0FCWWyBqBI1+Oa7gtvhtS1OK+cG1OZJT1T6aS3DuuvKBubixetDOnZ0vytFbWqOMXrvEutFh7FS9AA=="
+    },
+    {
       "version": "0.26.0-beta.2",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.2/Diastema-Setup-0.26.0-beta.2.exe",
