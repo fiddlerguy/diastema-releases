@@ -1,10 +1,10 @@
 {
-  "version": "0.26.0-beta.3",
+  "version": "0.26.0-beta.4",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.3/Diastema-Setup-0.26.0-beta.3.exe",
-  "sha256": "6cf8554eda10863c7857f21c4acf80759df83928c54665a46c6d0351be8f283a",
-  "size": 30423713,
-  "released": "2026-10-26T18:12:15.114Z",
-  "notes": "Texting: office hours are now set in Settings → Practice and drive the after-hours reply and the missed-call wording (Open Dental's schedule is the fallback); the missed-call text goes to every caller, patient or not; templates may use the practice name and phone and are no longer checked for procedure codes; Send forms → Consent → Text sends through Diastema with one comm log line. Needs edge 0.27.2.",
-  "signature": "qldhOoBG0FCWWyBqBI1+Oa7gtvhtS1OK+cG1OZJT1T6aS3DuuvKBubixetDOnZ0vytFbWqOMXrvEutFh7FS9AA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.4/Diastema-Setup-0.26.0-beta.4.exe",
+  "sha256": "3e9c3cdcc626dfe7e783df9d1599e3c569963f6ffc4d4ba0b8c8b8a3a1377cb6",
+  "size": 30433320,
+  "released": "2026-10-28T04:40:07.991Z",
+  "notes": "Texting beta 3: reminders and confirmations by text.\n\n- The appointment timeline's text steps now send: text reminder, second text reminder, text confirmation (with a second ask if it's ignored), same-day text, and a new optional new-patient text with the forms link.\n- Every text step starts off. Turn on the ones you want in Settings → Patient email.\n- A family's texts for the same day go in one text, one timeline text a day per phone, only inside Settings → Texting's hours and never on its no-text days.\n- A confirmation text carries the confirm link and sets \"Diastema texted\". A patient who replies C is confirmed the same way as tapping Confirm, with Undo in Follow-ups → Confirmations. Anything else they reply lands in Needs reply.\n- Texts go only while Texting is set up for the office; in test mode, only to the test numbers.",
+  "signature": "3DliKQdcUXoGgZfBbhuCEHhSbIrDxM1kd2EakKQZK2U5LmyjOyykAw9cECviHFEn0lb8H8GuA321TOBRBJrhBg=="
 }
