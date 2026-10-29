@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.26.0-beta.5",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.5/Diastema-Setup-0.26.0-beta.5.exe",
+      "sha256": "5eb69a997b6ea4e9b55bb760c1fe5d6e25f22c29f204c2dfde91266370e69f5d",
+      "size": 30451119,
+      "released": "2026-10-29T05:19:39.176Z",
+      "notes": "Texting beta 4: recall, reviews, receipts and group texts.\n\n- Recall texts: the five recall steps now send, timed off Open Dental's recall due dates, never to a patient with an appointment scheduled. They start off: tick the recall types in Settings → Patient email → Recall, then turn on the steps you want. A reply to a recall text is flagged and assigned to the level you choose in Settings → Texting.\n- Review requests: the day after a visit is set complete, at most once a year per patient, never to a patient marked \"No review requests\" (on the patient's Texts card). Set your review link in Settings → Texting first; it must be the same link as on your Texting card with Diastema.\n- Text receipt beside Email receipt on the Payments page: the amount only, no link or card details.\n- Group texts: Texts → Group text to patients scheduled today, tomorrow, in 2 or 3 days, the ASAP list or the Unscheduled List; untick anyone, up to 200, one text and one comm log line each.\n- A Yes on the intake form's texting line is recorded as consent (never over a STOP).\n- More than one automatic text a patient a day: each due text goes at its own time, inside texting hours.\n- A minor's texts go to the number on their own chart; only a minor with no number falls back to the guarantor's.",
+      "signature": "6aX2bDwj9ULuTjhKK9mFLWs4RolkiICSOTqMWFZAaYhP188VKHacKpr3qpPNSjBApaQ3THrKOw69U9fvp4c9Cg=="
+    },
+    {
       "version": "0.26.0-beta.4",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.4/Diastema-Setup-0.26.0-beta.4.exe",
