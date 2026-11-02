@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.26.0-beta.6",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.6/Diastema-Setup-0.26.0-beta.6.exe",
+      "sha256": "dfd34dbddab22a558ecb607ed219adf0db763bab6a472f0ab6aedd2cf73640f7",
+      "size": 30754601,
+      "released": "2026-11-02T20:41:31.571Z",
+      "notes": "Treatment plan edits and Open Dental alerts.",
+      "signature": "nfiDzA4bHdZ9krD9rO4H+HnNdIdh5MFCkm+9Sggg8fXXDXuqH62dFwiNOXbD7zJuDsam5GLi6UvfnB5IFF1DBw=="
+    },
+    {
       "version": "0.26.0-beta.5",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.5/Diastema-Setup-0.26.0-beta.5.exe",
