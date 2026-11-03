@@ -1,10 +1,10 @@
 {
-  "version": "0.26.0-beta.7",
+  "version": "0.26.0-beta.8",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.7/Diastema-Setup-0.26.0-beta.7.exe",
-  "sha256": "a8fa1c6bff385eb3a1cf9ac7cfd7632aa716fe10a868d3912f060c7d6fbdf04b",
-  "size": 30759091,
-  "released": "2026-11-03T01:37:56.230Z",
-  "notes": "Treatment plan checks: a plan saved today is flagged (patient page and a pop-up when it opens) when today's procedures weren't completed and claimed or set to This Appt before saving, and when insurance pays for an implant or bridge under a missing tooth clause written in the insurance notes. Older plans get a quiet note when their insurance figures no longer match today's insurance. Settings → Treatment plans → More settings → Plan checks.",
-  "signature": "A+Ll1CsP6cvV5+0j3mJMOunmQV7a6xOqXBmS8MWBbqryszj9I2wkBdL+Dvj1bIxH6AjOwJdVlSWxfkRUntmpDA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.8/Diastema-Setup-0.26.0-beta.8.exe",
+  "sha256": "48c4929d3318c2a4a3e442d9bf9d5a3ccc3ea3dbb28b30bd5bc6c1b8d5a0153e",
+  "size": 30760428,
+  "released": "2026-11-03T04:22:35.370Z",
+  "notes": "Card payments in Open Dental:\n- With Settings → Payments → Payments before treatment set to \"Against the planned procedures\", each card payment on a signed treatment plan is now spread over the plan's procedures, in proportion to what each still owes (Treat Plan Prepayment splits). Open Dental needs Setup → Allocations → \"Allow prepayments to allocate to treatment planned procedures\" ticked for this.\n- The Pay in Advance discount now goes into Open Dental. Once the plan is paid in full, one Discount adjustment goes on each procedure. You can turn this off, or pick the adjustment type, in Settings → Payments.\n- A partial refund is now one negative payment in Open Dental, instead of a full reversal plus a new payment.\n\nNo more browser pop-ups: every confirmation in Diastema, such as \"Sign now\" handing the device to the patient, now appears on the page itself.",
+  "signature": "sI+Hjemmg/M2m5V5pHEn5kjSYrD4qOs6VV4R1kwEwJGN3AeiAxE6rlTvWqm/bxw33ybhCWfE/syf6h8AjmYgDA=="
 }
