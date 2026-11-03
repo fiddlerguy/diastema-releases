@@ -1,10 +1,10 @@
 {
-  "version": "0.26.0-beta.8",
+  "version": "0.26.0-beta.9",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.8/Diastema-Setup-0.26.0-beta.8.exe",
-  "sha256": "48c4929d3318c2a4a3e442d9bf9d5a3ccc3ea3dbb28b30bd5bc6c1b8d5a0153e",
-  "size": 30760428,
-  "released": "2026-11-03T04:22:35.370Z",
-  "notes": "Card payments in Open Dental:\n- With Settings → Payments → Payments before treatment set to \"Against the planned procedures\", each card payment on a signed treatment plan is now spread over the plan's procedures, in proportion to what each still owes (Treat Plan Prepayment splits). Open Dental needs Setup → Allocations → \"Allow prepayments to allocate to treatment planned procedures\" ticked for this.\n- The Pay in Advance discount now goes into Open Dental. Once the plan is paid in full, one Discount adjustment goes on each procedure. You can turn this off, or pick the adjustment type, in Settings → Payments.\n- A partial refund is now one negative payment in Open Dental, instead of a full reversal plus a new payment.\n\nNo more browser pop-ups: every confirmation in Diastema, such as \"Sign now\" handing the device to the patient, now appears on the page itself.",
-  "signature": "sI+Hjemmg/M2m5V5pHEn5kjSYrD4qOs6VV4R1kwEwJGN3AeiAxE6rlTvWqm/bxw33ybhCWfE/syf6h8AjmYgDA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.9/Diastema-Setup-0.26.0-beta.9.exe",
+  "sha256": "ac6183becafda4c5c6c6e615f27070c3b5c3b9d5127c169180584426539b6b04",
+  "size": 30764428,
+  "released": "2026-11-03T05:08:05.141Z",
+  "notes": "After an update, a Diastema page that was already open now reloads itself the next time you go to another page, so it runs the new version right away. If a settings page has unsaved changes, it asks first.\n\nAlso in this beta (from 0.26.0-beta.8): card payments spread over the plan's procedures, the Pay in Advance discount written as Discount adjustments, a partial refund as one negative payment, and no browser pop-ups anywhere.",
+  "signature": "Cg170tlheLBOHfM9aKX5Ne7sle+swru7MI3YDVuzYmsy5t6mGUtTErjJLGKrAPAlGC7aWAgU6+S2uDyEiFBqCw=="
 }
