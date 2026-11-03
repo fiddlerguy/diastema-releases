@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.26.0-beta.9",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.9/Diastema-Setup-0.26.0-beta.9.exe",
+      "sha256": "ac6183becafda4c5c6c6e615f27070c3b5c3b9d5127c169180584426539b6b04",
+      "size": 30764428,
+      "released": "2026-11-03T05:08:05.141Z",
+      "notes": "After an update, a Diastema page that was already open now reloads itself the next time you go to another page, so it runs the new version right away. If a settings page has unsaved changes, it asks first.\n\nAlso in this beta (from 0.26.0-beta.8): card payments spread over the plan's procedures, the Pay in Advance discount written as Discount adjustments, a partial refund as one negative payment, and no browser pop-ups anywhere.",
+      "signature": "Cg170tlheLBOHfM9aKX5Ne7sle+swru7MI3YDVuzYmsy5t6mGUtTErjJLGKrAPAlGC7aWAgU6+S2uDyEiFBqCw=="
+    },
+    {
       "version": "0.26.0-beta.8",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.8/Diastema-Setup-0.26.0-beta.8.exe",
