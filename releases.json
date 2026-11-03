@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.26.0-beta.7",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.7/Diastema-Setup-0.26.0-beta.7.exe",
+      "sha256": "a8fa1c6bff385eb3a1cf9ac7cfd7632aa716fe10a868d3912f060c7d6fbdf04b",
+      "size": 30759091,
+      "released": "2026-11-03T01:37:56.230Z",
+      "notes": "Treatment plan checks: a plan saved today is flagged (patient page and a pop-up when it opens) when today's procedures weren't completed and claimed or set to This Appt before saving, and when insurance pays for an implant or bridge under a missing tooth clause written in the insurance notes. Older plans get a quiet note when their insurance figures no longer match today's insurance. Settings → Treatment plans → More settings → Plan checks.",
+      "signature": "A+Ll1CsP6cvV5+0j3mJMOunmQV7a6xOqXBmS8MWBbqryszj9I2wkBdL+Dvj1bIxH6AjOwJdVlSWxfkRUntmpDA=="
+    },
+    {
       "version": "0.26.0-beta.6",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.6/Diastema-Setup-0.26.0-beta.6.exe",
