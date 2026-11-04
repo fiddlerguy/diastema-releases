@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.28.0-beta.2",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.2/Diastema-Setup-0.28.0-beta.2.exe",
+      "sha256": "e747aa9614d72f48b7c86b84e2e8a68881e28bfd7c1061bb269f59ebd69e439b",
+      "size": 30828625,
+      "released": "2026-11-04T04:28:28.659Z",
+      "notes": "Online scheduling: back-to-back blockouts each stand on their own; Where in the open time (anywhere, or only at the start); Office limits: double booking switch, clearer words when a provider is busy in another room; Open Dental appointment types grey out length, pattern and codes; Ignore blockouts greys out the blockout types; Policies: Can't book online (phones, emails, patients); a notice longer than the lead time is allowed.",
+      "signature": "NToJ56QzgCPLUzg9ROBsY89Y27MTVGHBcIlxBZuZi9soxXtFm7nDD10/aJAAWsJ9cJgE0qThgys/op8evyBgBw=="
+    },
+    {
       "version": "0.28.0-beta.1",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.1/Diastema-Setup-0.28.0-beta.1.exe",
