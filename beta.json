@@ -1,10 +1,10 @@
 {
-  "version": "0.28.0-beta.2",
+  "version": "0.28.0-beta.3",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.2/Diastema-Setup-0.28.0-beta.2.exe",
-  "sha256": "e747aa9614d72f48b7c86b84e2e8a68881e28bfd7c1061bb269f59ebd69e439b",
-  "size": 30828625,
-  "released": "2026-11-04T04:28:28.659Z",
-  "notes": "Online scheduling: back-to-back blockouts each stand on their own; Where in the open time (anywhere, or only at the start); Office limits: double booking switch, clearer words when a provider is busy in another room; Open Dental appointment types grey out length, pattern and codes; Ignore blockouts greys out the blockout types; Policies: Can't book online (phones, emails, patients); a notice longer than the lead time is allowed.",
-  "signature": "NToJ56QzgCPLUzg9ROBsY89Y27MTVGHBcIlxBZuZi9soxXtFm7nDD10/aJAAWsJ9cJgE0qThgys/op8evyBgBw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.3/Diastema-Setup-0.28.0-beta.3.exe",
+  "sha256": "eb9d56c49df1d0683e825ad62e781e76817c24435d7facff690d45a827e41b6e",
+  "size": 30866905,
+  "released": "2026-11-04T15:59:15.565Z",
+  "notes": "Online scheduling beta 2: patients book at /book (and the website's Schedule online button): a code by text or email, the match after the code, the booking queue writing the patient, the appointment, its procedures, the Booked online status and a comm log line; Test mode; Follow-ups -> Booked online; the globe badge; Your website (links, snippet, QR code). Migration 43 (bookings). Needs edge 0.28.0: install on od-demo only until production edge-1 has it.",
+  "signature": "vAWv21c4H5HrXU2WlETm050O2dMNrMG+9R5MmIWB9Vgeqp+CIGMW3zaHqdGrurOjyh6Z+sFJOC0JZAqaZkICDg=="
 }
