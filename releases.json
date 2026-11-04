@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.28.0-beta.4",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.4/Diastema-Setup-0.28.0-beta.4.exe",
+      "sha256": "30052754c9d23c1a12bfa9968da3f040ac8dec5f16c9c1b24e0aa426e337543a",
+      "size": 30870859,
+      "released": "2026-11-04T20:46:24.540Z",
+      "notes": "Online booking page: picking a day keeps your place; the visit-type step always shows, with a line that other visits need a call; no more 'Who is this visit for?' question, and a patient under 18 asks for a parent or guardian's name.",
+      "signature": "2xA8AGe/W6B1VptrYMXrEOsKqSY1HqpTMcA48Pm+sNn8DKtDlYtE2rOYCxobypjpmhQDGeZk70M8wF/vvo8sDA=="
+    },
+    {
       "version": "0.28.0-beta.3",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.3/Diastema-Setup-0.28.0-beta.3.exe",
