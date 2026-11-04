@@ -1,10 +1,10 @@
 {
-  "version": "0.26.0-beta.10",
+  "version": "0.28.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.10/Diastema-Setup-0.26.0-beta.10.exe",
-  "sha256": "135471e6b38f351adebb81d1b3215250defc8e098a8b9bef09d3479dc295013c",
-  "size": 30762353,
-  "released": "2026-11-03T05:13:38.589Z",
-  "notes": "Treatment plan checks: every flagged plan now gets the yellow Check this plan line (older plans no longer get a grey note), and the pop-up shows whenever a flagged plan is opened or presented. Present asks first: Cancel or Present anyway.",
-  "signature": "9iCv+cMn+GpAnEKZ0JISLdYUmzEo0sE8i+MHUiQlsZ+r3MGfOIGTvn64TnF7UCRt4Zf9RmKrpyaRt18s3XmLDQ=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.1/Diastema-Setup-0.28.0-beta.1.exe",
+  "sha256": "150b4314c5d0618ff9945ea6843eebf6da94a6fbcc0891370c1bc110825e8f32",
+  "size": 30830475,
+  "released": "2026-11-04T02:19:28.851Z",
+  "notes": "Online scheduling beta 1: Settings → Online scheduling (visit types, office limits, policies), Set up from your schedule, the slot engine and Try it, the preview that explains every offered or refused time. Nothing is written to Open Dental and nothing is booked yet. Also UI release 2: the rebuilt Settings (home page, Find a setting, pages with tabs, section cards, one save bar) and the list pages' filter bar.",
+  "signature": "NQbw9tPzDWWx7L0u9RDiQLmpzaUOcGnTUSvO4cGfu2UD+srdew9Qq9I/U1fLQeG4i2hz7QrfNfM1TvQ1mHfgDg=="
 }
