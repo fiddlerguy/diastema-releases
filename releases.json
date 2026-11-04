@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.28.0-beta.1",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.1/Diastema-Setup-0.28.0-beta.1.exe",
+      "sha256": "150b4314c5d0618ff9945ea6843eebf6da94a6fbcc0891370c1bc110825e8f32",
+      "size": 30830475,
+      "released": "2026-11-04T02:19:28.851Z",
+      "notes": "Online scheduling beta 1: Settings → Online scheduling (visit types, office limits, policies), Set up from your schedule, the slot engine and Try it, the preview that explains every offered or refused time. Nothing is written to Open Dental and nothing is booked yet. Also UI release 2: the rebuilt Settings (home page, Find a setting, pages with tabs, section cards, one save bar) and the list pages' filter bar.",
+      "signature": "NQbw9tPzDWWx7L0u9RDiQLmpzaUOcGnTUSvO4cGfu2UD+srdew9Qq9I/U1fLQeG4i2hz7QrfNfM1TvQ1mHfgDg=="
+    },
+    {
       "version": "0.26.0-beta.10",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.26.0-beta.10/Diastema-Setup-0.26.0-beta.10.exe",
