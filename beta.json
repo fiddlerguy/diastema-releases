@@ -1,10 +1,10 @@
 {
-  "version": "0.28.0-beta.3",
+  "version": "0.28.0-beta.4",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.3/Diastema-Setup-0.28.0-beta.3.exe",
-  "sha256": "eb9d56c49df1d0683e825ad62e781e76817c24435d7facff690d45a827e41b6e",
-  "size": 30866905,
-  "released": "2026-11-04T15:59:15.565Z",
-  "notes": "Online scheduling beta 2: patients book at /book (and the website's Schedule online button): a code by text or email, the match after the code, the booking queue writing the patient, the appointment, its procedures, the Booked online status and a comm log line; Test mode; Follow-ups -> Booked online; the globe badge; Your website (links, snippet, QR code). Migration 43 (bookings). Needs edge 0.28.0: install on od-demo only until production edge-1 has it.",
-  "signature": "vAWv21c4H5HrXU2WlETm050O2dMNrMG+9R5MmIWB9Vgeqp+CIGMW3zaHqdGrurOjyh6Z+sFJOC0JZAqaZkICDg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.4/Diastema-Setup-0.28.0-beta.4.exe",
+  "sha256": "30052754c9d23c1a12bfa9968da3f040ac8dec5f16c9c1b24e0aa426e337543a",
+  "size": 30870859,
+  "released": "2026-11-04T20:46:24.540Z",
+  "notes": "Online booking page: picking a day keeps your place; the visit-type step always shows, with a line that other visits need a call; no more 'Who is this visit for?' question, and a patient under 18 asks for a parent or guardian's name.",
+  "signature": "2xA8AGe/W6B1VptrYMXrEOsKqSY1HqpTMcA48Pm+sNn8DKtDlYtE2rOYCxobypjpmhQDGeZk70M8wF/vvo8sDA=="
 }
