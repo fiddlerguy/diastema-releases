@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.28.0-beta.6",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.6/Diastema-Setup-0.28.0-beta.6.exe",
+      "sha256": "5e0a84f1b75af92377644462930e5086c5defaee67f657fd80b4de12afd2f473",
+      "size": 30893223,
+      "released": "2026-11-05T02:22:45.116Z",
+      "notes": "The Spanish of online scheduling, reviewed: one word for booking (agendar) on the page and in the recall and new-patient texts, texts write the day and time as the page does (mar 17 nov a las 9:00 a.m.), neutral wording for everyone, the card hold in plain words (Guardamos su tarjeta como garantía de esta cita), the booking email's subject says the visit was booked online, and a one-hour notice reads correctly in both languages. Needs edge 0.28.0: betas 2 to 4 stay on od-demo until production edge-1 is deployed.",
+      "signature": "R7OL6+pUdowV6Ju/cOSFcXw9PmHn8Ec4X7CFRg7Qr2Cgv19N8MkkjmJeGwkuns9UvEycjjTbdqEP/TVLhIHMAA=="
+    },
+    {
       "version": "0.28.0-beta.5",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.5/Diastema-Setup-0.28.0-beta.5.exe",
