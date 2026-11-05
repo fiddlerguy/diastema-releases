@@ -1,10 +1,10 @@
 {
-  "version": "0.28.0-beta.5",
+  "version": "0.28.0-beta.6",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.5/Diastema-Setup-0.28.0-beta.5.exe",
-  "sha256": "c7f4a4c383dbbe907c9164df7f44f4157ddb4c5b6a597d4d4e028e375a15bd3e",
-  "size": 30891466,
-  "released": "2026-11-05T02:11:32.263Z",
-  "notes": "Online scheduling betas 3 and 4. Beta 3: a visit type may hold a card at booking (everyone, new patients, or a missed visit in two years), the booking's own link lets a patient change or cancel under the office's notice policy, a late cancel appears on Payments → No-shows as Late cancel, and Booked online gains Still on the schedule. Beta 4: a parent books for family members back to back after one code, offices with several locations get Which location? and per-location settings, recall texts carry the plain /book link when Mode is On, the offline line from Settings → Words is used when Open Dental doesn't answer, and Analytics gains Online booking with the funnel. Needs edge 0.28.0: betas 2 to 4 stay on od-demo until production edge-1 is deployed.",
-  "signature": "MxqGpH7d6l5NTKc2TDG06LoRihBEJmbQ80vTvZIB+yfZRXm7XvGJxaqNyFEz5k1snJlr7AxdTUEnIGCYgJU5AA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.6/Diastema-Setup-0.28.0-beta.6.exe",
+  "sha256": "5e0a84f1b75af92377644462930e5086c5defaee67f657fd80b4de12afd2f473",
+  "size": 30893223,
+  "released": "2026-11-05T02:22:45.116Z",
+  "notes": "The Spanish of online scheduling, reviewed: one word for booking (agendar) on the page and in the recall and new-patient texts, texts write the day and time as the page does (mar 17 nov a las 9:00 a.m.), neutral wording for everyone, the card hold in plain words (Guardamos su tarjeta como garantía de esta cita), the booking email's subject says the visit was booked online, and a one-hour notice reads correctly in both languages. Needs edge 0.28.0: betas 2 to 4 stay on od-demo until production edge-1 is deployed.",
+  "signature": "R7OL6+pUdowV6Ju/cOSFcXw9PmHn8Ec4X7CFRg7Qr2Cgv19N8MkkjmJeGwkuns9UvEycjjTbdqEP/TVLhIHMAA=="
 }
