@@ -1,10 +1,10 @@
 {
-  "version": "0.28.0-beta.7",
+  "version": "0.29.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.28.0-beta.7/Diastema-Setup-0.28.0-beta.7.exe",
-  "sha256": "fc7f9e246bf4fc9c86a6862ddb497e1a3851e306658d72bef161fc52bb69d626",
-  "size": 30916395,
-  "released": "2026-11-06T19:11:32.940Z",
-  "notes": "Online scheduling: the booking page redesigned (four named steps, week strip with the month one tap behind, Soonest, Almost done review card, appointment card with calendar links, pop-up title strip), Settings → Online scheduling regrouped as Overview, Visit types, Booking page, Rules and Try it with booking hours from the office hours by default, Stop online booking on Booked online rows, and providers as patients see them: display names, photos, and Start with the patient's own provider.",
-  "signature": "0Ef+BF/qCHzAJCycPmh9j7p1wGrGn5de2byjTtHPMMJ5ZpJBWiJ5oCNe1TZxOmW/n7+cMq6XfbSMCd3tO8eWAg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.0-beta.1/Diastema-Setup-0.29.0-beta.1.exe",
+  "sha256": "f033be54bfd32c77be802a615dacf0030f7796bbc7f88d344e7f0edc3d262876",
+  "size": 30925648,
+  "released": "2026-11-07T22:13:39.365Z",
+  "notes": "Behind-the-scenes work on how Diastema talks to Open Dental, so it can work with other dental software in the future. Nothing you see or do in Diastema changes.",
+  "signature": "zIXhY+1pQ2jzSjLgESHDLy6XdpyeMAnNFL05V1aMdXr/cgzp2fQR8SvYVDvBBMXxmkMNoxs2rkJiDrf1B5S2DQ=="
 }
