@@ -1,10 +1,10 @@
 {
-  "version": "0.29.0",
+  "version": "0.29.1",
   "channel": "stable",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.0/Diastema-Setup-0.29.0.exe",
-  "sha256": "ac7d85c57e6e58dc1ae6dd58cea2b3e77752c78a3d9dfd9982470b1dc102bf44",
-  "size": 30925914,
-  "released": "2026-11-08T01:18:00.341Z",
-  "notes": "R1 of the PMS adapter work: every Open Dental call now goes through one adapter layer, so other practice systems can be added later. Nothing changes in how Diastema looks or works for the office.",
-  "signature": "9P9Q2PfhpJeG9myNxUIwlI5+1otAruAGFsEvGskI5muEXRD/ORKyAutWTksAE9u1tFxK0Q6fLzb/u4/rip7qCA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.1/Diastema-Setup-0.29.1.exe",
+  "sha256": "c8f9326f4c5939bbcf23bf66b2cf8d6858eb738ccf086e3ebba713ab2341a23c",
+  "size": 30927158,
+  "released": "2026-11-08T04:24:44.801Z",
+  "notes": "Stable touch-ups: the treatment plan letter opens in the editor; Patients with balances gets a filter bar, sortable columns and follow-up tasks; Settings warnings show on the exact setting, with Ignore; no warning for people without a PIN.",
+  "signature": "kZru2/PDEjUpxcPpSEhwsv6LjNGGyu/D1qiw5zkhwowzUEwk5N/YTWn/dFBbDxhQWe4l3D0o1FJvQecGT9w/DA=="
 }
