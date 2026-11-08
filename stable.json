@@ -1,10 +1,10 @@
 {
-  "version": "0.23.0",
+  "version": "0.29.0",
   "channel": "stable",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.23.0/Diastema-Setup-0.23.0.exe",
-  "sha256": "cf774d4251364233bd482b2387de41fc369c94b5515d55657541f4db5bfef20f",
-  "size": 30142866,
-  "released": "2026-10-21T03:04:51.159Z",
-  "notes": "0.23.0 (stable): the owner's to-do list. Sign-in and Staff drawer PIN pad; readable name menu; office colors, logo and contact line on Settings > Practice; shared email sections editor with formatting; Send forms opens on the forms due, several consents in one send, Pick forms without consents; unscheduled treatment follow-ups only for treatment planned in the last 6 months; original due date on hover and click a due date to change it; Follow Up pop-up in the app's colors; shorter Treatment Plan rows, 10 per page; Take a photo on Signed on paper; Compliance spacing, Requirements delete/restore, Edit mode, citation line; attention dots instead of the drill bar; overlapping blocks and blockout notes on the visual schedule; the discount card says the saving; payment plans say payments, not months; collapsed terms in the Staff drawer; Back to Diastema as the staff member who unlocked the drawer; one toolbox for open and presented plans; staff can show hidden payment options (setting); the form editor preview loads again.",
-  "signature": "MlSynqKw3VWgvXcTvc8kkmAjawSApxIH7Vgx6vbvDiG35c6nAjAHTm1No684JXwFt91fqfFTdiiPeBhiXWLnBw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.0/Diastema-Setup-0.29.0.exe",
+  "sha256": "ac7d85c57e6e58dc1ae6dd58cea2b3e77752c78a3d9dfd9982470b1dc102bf44",
+  "size": 30925914,
+  "released": "2026-11-08T01:18:00.341Z",
+  "notes": "R1 of the PMS adapter work: every Open Dental call now goes through one adapter layer, so other practice systems can be added later. Nothing changes in how Diastema looks or works for the office.",
+  "signature": "9P9Q2PfhpJeG9myNxUIwlI5+1otAruAGFsEvGskI5muEXRD/ORKyAutWTksAE9u1tFxK0Q6fLzb/u4/rip7qCA=="
 }
