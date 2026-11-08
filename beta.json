@@ -1,10 +1,10 @@
 {
-  "version": "0.29.0-beta.1",
+  "version": "0.29.0",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.0-beta.1/Diastema-Setup-0.29.0-beta.1.exe",
-  "sha256": "f033be54bfd32c77be802a615dacf0030f7796bbc7f88d344e7f0edc3d262876",
-  "size": 30925648,
-  "released": "2026-11-07T22:13:39.365Z",
-  "notes": "Behind-the-scenes work on how Diastema talks to Open Dental, so it can work with other dental software in the future. Nothing you see or do in Diastema changes.",
-  "signature": "zIXhY+1pQ2jzSjLgESHDLy6XdpyeMAnNFL05V1aMdXr/cgzp2fQR8SvYVDvBBMXxmkMNoxs2rkJiDrf1B5S2DQ=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.0/Diastema-Setup-0.29.0.exe",
+  "sha256": "ac7d85c57e6e58dc1ae6dd58cea2b3e77752c78a3d9dfd9982470b1dc102bf44",
+  "size": 30925914,
+  "released": "2026-11-08T01:18:00.341Z",
+  "notes": "R1 of the PMS adapter work: every Open Dental call now goes through one adapter layer, so other practice systems can be added later. Nothing changes in how Diastema looks or works for the office.",
+  "signature": "uVXRbX3GB9ufTnXZBi2pZRFpcc3QABjccqlU4FphMNgSguCk1EKn4H5saa5Z39hxjBEgq/WGSosiRJZQ5C0bBw=="
 }
