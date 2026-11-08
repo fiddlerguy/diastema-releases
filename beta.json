@@ -1,10 +1,10 @@
 {
-  "version": "0.29.1",
+  "version": "0.30.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.1/Diastema-Setup-0.29.1.exe",
-  "sha256": "c8f9326f4c5939bbcf23bf66b2cf8d6858eb738ccf086e3ebba713ab2341a23c",
-  "size": 30927158,
-  "released": "2026-11-08T04:24:44.801Z",
-  "notes": "Stable touch-ups: the treatment plan letter opens in the editor; Patients with balances gets a filter bar, sortable columns and follow-up tasks; Settings warnings show on the exact setting, with Ignore; no warning for people without a PIN.",
-  "signature": "VbQGLcMgxX5vF0XHZu6avhJsRtr3Z1RHVTKBE0zQl8FZrkYQZAjuI5VQONQqySsJEhedLcyBNe00HtZjqIdxAw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.30.0-beta.1/Diastema-Setup-0.30.0-beta.1.exe",
+  "sha256": "69563235089117e044d004f8d73449306ecdca85504ed2767afe86090a314cc2",
+  "size": 30977004,
+  "released": "2026-11-08T17:15:42.769Z",
+  "notes": "Locations: offices with more than one location can now see each page for one location or for all of them, and set hours, phone and address per location (Settings → Office → Locations). Offices with a single location see no change.\nAnalytics → Providers: a new page comparing providers side by side: production, collections, diagnosis presented and accepted, hygiene production per hour, perio diagnosis rate and more. Off until a manager turns it on in Settings → Analytics.\nStaff accounts: people are now managed in Settings → People. Add someone by name, invite them by email, and let them set their own PIN. Existing users keep their names and PINs. Sign-in is unchanged.\nIncludes everything in 0.29.1.",
+  "signature": "N3GZ0qmno/d1ppnMqhw6dRB+skr2OpUj7QK8QiZT31s20Wb+k6jst10Pf06wdNulgK6brnuq2xgp53pmApXLAA=="
 }
