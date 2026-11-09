@@ -1,10 +1,10 @@
 {
-  "version": "0.29.1",
+  "version": "0.29.2",
   "channel": "stable",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.1/Diastema-Setup-0.29.1.exe",
-  "sha256": "c8f9326f4c5939bbcf23bf66b2cf8d6858eb738ccf086e3ebba713ab2341a23c",
-  "size": 30927158,
-  "released": "2026-11-08T04:24:44.801Z",
-  "notes": "Stable touch-ups: the treatment plan letter opens in the editor; Patients with balances gets a filter bar, sortable columns and follow-up tasks; Settings warnings show on the exact setting, with Ignore; no warning for people without a PIN.",
-  "signature": "kZru2/PDEjUpxcPpSEhwsv6LjNGGyu/D1qiw5zkhwowzUEwk5N/YTWn/dFBbDxhQWe4l3D0o1FJvQecGT9w/DA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.2/Diastema-Setup-0.29.2.exe",
+  "sha256": "a378d8d012893f69c2803aa96763e7d34c8ff7474106d406dbbde597bd0af32b",
+  "size": 30932325,
+  "released": "2026-11-09T23:35:24.666Z",
+  "notes": "Layman's terms: treatment plans can now use Diastema's everyday term for each procedure without changing Open Dental (Settings → Treatment plans → Procedure descriptions). The Layman's terms page can also remove the terms Diastema added to Open Dental; a term the office typed is left as it is.",
+  "signature": "OcyBdRGwFC0Jf4DgMgh+IhiXs9Q5E5JuI25wuzJ3lRlzuL1BzWP8upmgsyY7UX1xiORIEJZgudbhvApix4G1Dg=="
 }
