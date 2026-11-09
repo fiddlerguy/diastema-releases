@@ -11,6 +11,16 @@
       "signature": "N3GZ0qmno/d1ppnMqhw6dRB+skr2OpUj7QK8QiZT31s20Wb+k6jst10Pf06wdNulgK6brnuq2xgp53pmApXLAA=="
     },
     {
+      "version": "0.29.2",
+      "channel": "stable",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.2/Diastema-Setup-0.29.2.exe",
+      "sha256": "a378d8d012893f69c2803aa96763e7d34c8ff7474106d406dbbde597bd0af32b",
+      "size": 30932325,
+      "released": "2026-11-09T23:35:24.666Z",
+      "notes": "Layman's terms: treatment plans can now use Diastema's everyday term for each procedure without changing Open Dental (Settings → Treatment plans → Procedure descriptions). The Layman's terms page can also remove the terms Diastema added to Open Dental; a term the office typed is left as it is.",
+      "signature": "OcyBdRGwFC0Jf4DgMgh+IhiXs9Q5E5JuI25wuzJ3lRlzuL1BzWP8upmgsyY7UX1xiORIEJZgudbhvApix4G1Dg=="
+    },
+    {
       "version": "0.29.1",
       "channel": "stable",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.1/Diastema-Setup-0.29.1.exe",
