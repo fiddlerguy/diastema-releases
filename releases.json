@@ -11,6 +11,16 @@
       "signature": "N3GZ0qmno/d1ppnMqhw6dRB+skr2OpUj7QK8QiZT31s20Wb+k6jst10Pf06wdNulgK6brnuq2xgp53pmApXLAA=="
     },
     {
+      "version": "0.29.3",
+      "channel": "stable",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.3/Diastema-Setup-0.29.3.exe",
+      "sha256": "7a8f94ac9c6fbaa5f82d90ed3fe831ef77a6ff4d2d83238ca8e55c938c4536f4",
+      "size": 30933753,
+      "released": "2026-11-10T03:26:45.387Z",
+      "notes": "Perio maintenance (D4910) scheduled on a recall visit no longer makes a treatment plan read as booked in the follow-ups, the badge, Unscheduled Tx and Today.",
+      "signature": "rGOEsA1RPtzVFiXxPAfrbgj+FRsz1nwY2a5pHHEMt0JCKh8Rk1g9qFc3B7gE3U7GlwW/f5uUKxRUI4LwApFFBw=="
+    },
+    {
       "version": "0.29.2",
       "channel": "stable",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.2/Diastema-Setup-0.29.2.exe",
