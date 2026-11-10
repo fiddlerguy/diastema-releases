@@ -1,10 +1,10 @@
 {
-  "version": "0.30.0-beta.1",
+  "version": "0.31.0-beta.1",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.30.0-beta.1/Diastema-Setup-0.30.0-beta.1.exe",
-  "sha256": "69563235089117e044d004f8d73449306ecdca85504ed2767afe86090a314cc2",
-  "size": 30977004,
-  "released": "2026-11-08T17:15:42.769Z",
-  "notes": "Locations: offices with more than one location can now see each page for one location or for all of them, and set hours, phone and address per location (Settings → Office → Locations). Offices with a single location see no change.\nAnalytics → Providers: a new page comparing providers side by side: production, collections, diagnosis presented and accepted, hygiene production per hour, perio diagnosis rate and more. Off until a manager turns it on in Settings → Analytics.\nStaff accounts: people are now managed in Settings → People. Add someone by name, invite them by email, and let them set their own PIN. Existing users keep their names and PINs. Sign-in is unchanged.\nIncludes everything in 0.29.1.",
-  "signature": "N3GZ0qmno/d1ppnMqhw6dRB+skr2OpUj7QK8QiZT31s20Wb+k6jst10Pf06wdNulgK6brnuq2xgp53pmApXLAA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.31.0-beta.1/Diastema-Setup-0.31.0-beta.1.exe",
+  "sha256": "e906dbe79a8818684799ff698487df0d5cafbd55cfd097f0f32ea6dd0e946201",
+  "size": 31050579,
+  "released": "2026-11-10T19:55:43.123Z",
+  "notes": "Groundwork for practice management systems other than Open Dental. With Open Dental nothing changes in how the office works.\nSettings → Practice management system: a card that says how Diastema reaches the office's system (\"Open Dental API, direct\").\nSettings → People: a \"Chart\" heading above the new permission, \"Enter chart work the practice management system could not take\", on for every level.\nTo the chart: a new page, shown in the menu only when there is something on it: anything the practice management system couldn't take, to enter by hand, with Done and Undo. With Open Dental it stays empty unless a write fails for good.\nSettings → Office → Records: how long Diastema keeps its own copies of signed forms, plans and receipts (while the account is open, or 5 to 10 years), and the download of everything, now and for 30 days after the subscription ends.\nFirst setup asks which practice management system the office uses (Open Dental; others come later).\nA database update runs once at the first start: it adds the tables for later versions and changes nothing in the office's data.\nIncludes everything in 0.30.0-beta.1. The plan wording changes and Remove from Open Dental from 0.29.2 are not in this beta yet.",
+  "signature": "pmpsrZf4Wt7v/tEnUdBYjvK5xHqAwPBGW0TLGfxcZRMBzKQYxUDLOTc2kUp8L5KRl8+rZ6U7PXfX7syqYFgkDw=="
 }
