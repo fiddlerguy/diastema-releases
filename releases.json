@@ -1,6 +1,16 @@
 {
   "releases": [
     {
+      "version": "0.31.0-beta.1",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.31.0-beta.1/Diastema-Setup-0.31.0-beta.1.exe",
+      "sha256": "e906dbe79a8818684799ff698487df0d5cafbd55cfd097f0f32ea6dd0e946201",
+      "size": 31050579,
+      "released": "2026-11-10T19:55:43.123Z",
+      "notes": "Groundwork for practice management systems other than Open Dental. With Open Dental nothing changes in how the office works.\nSettings → Practice management system: a card that says how Diastema reaches the office's system (\"Open Dental API, direct\").\nSettings → People: a \"Chart\" heading above the new permission, \"Enter chart work the practice management system could not take\", on for every level.\nTo the chart: a new page, shown in the menu only when there is something on it: anything the practice management system couldn't take, to enter by hand, with Done and Undo. With Open Dental it stays empty unless a write fails for good.\nSettings → Office → Records: how long Diastema keeps its own copies of signed forms, plans and receipts (while the account is open, or 5 to 10 years), and the download of everything, now and for 30 days after the subscription ends.\nFirst setup asks which practice management system the office uses (Open Dental; others come later).\nA database update runs once at the first start: it adds the tables for later versions and changes nothing in the office's data.\nIncludes everything in 0.30.0-beta.1. The plan wording changes and Remove from Open Dental from 0.29.2 are not in this beta yet.",
+      "signature": "pmpsrZf4Wt7v/tEnUdBYjvK5xHqAwPBGW0TLGfxcZRMBzKQYxUDLOTc2kUp8L5KRl8+rZ6U7PXfX7syqYFgkDw=="
+    },
+    {
       "version": "0.30.0-beta.1",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.30.0-beta.1/Diastema-Setup-0.30.0-beta.1.exe",
