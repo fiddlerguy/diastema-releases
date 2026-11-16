@@ -31,6 +31,16 @@
       "signature": "N3GZ0qmno/d1ppnMqhw6dRB+skr2OpUj7QK8QiZT31s20Wb+k6jst10Pf06wdNulgK6brnuq2xgp53pmApXLAA=="
     },
     {
+      "version": "0.29.4",
+      "channel": "stable",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.4/Diastema-Setup-0.29.4.exe",
+      "sha256": "218963ce8d41f0f2517c9e4d2f27dbc9cb2b90fb9b6d91358e3cd28e6c191203",
+      "size": 30932155,
+      "released": "2026-11-16T17:10:24.305Z",
+      "notes": "Treatment plan printout keeps its margins and shrinks to one page; the financing QR code only on paper, a link on screens; Settings → Automatic messages with one Pause.",
+      "signature": "d6WeDZdx0sVdG2kR9BBAM0wthsXprBgRG1d7kfwQAuJjYIaZeguXh00CYxnzLFrLi59pkX3IabQdJDoAluXxBg=="
+    },
+    {
       "version": "0.29.3",
       "channel": "stable",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.3/Diastema-Setup-0.29.3.exe",
