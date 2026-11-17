@@ -1,10 +1,10 @@
 {
-  "version": "0.29.6",
+  "version": "0.29.7",
   "channel": "stable",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.6/Diastema-Setup-0.29.6.exe",
-  "sha256": "d2e5a0e3fc9d8a0bb21b5c584e8b9ad899e417ff4f0aa9ebf680d59dc49ec70b",
-  "size": 30938432,
-  "released": "2026-11-17T16:22:45.022Z",
-  "notes": "Treatment plan printouts from an iPad or iPhone print at normal size with half-inch margins (they printed narrow, on extra pages).",
-  "signature": "pHO0CsGlImqFtuFyAZDgaNLyraNeANuaahl4jvpLubEqnIJlH7nDGAeJNQa9CW2yD6lAB4bDdQwp+hyB9pIqDA=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.7/Diastema-Setup-0.29.7.exe",
+  "sha256": "242fc5adcca40a579a7d04481a646ca6a3e7f3927d411d059a664274c851bb86",
+  "size": 30935885,
+  "released": "2026-11-17T16:34:47.987Z",
+  "notes": "Present mode's Print on an iPad (or Share > Print) prints the plan printout, not the presentation screen.",
+  "signature": "XrpePY3aYmQSt1j4ojJ6JFeTsU1ifBOFt5Urwysu8I/1zrzCMr/GgBzzia4liVKJjNJ96v/fM2yVtIAwTq6aCg=="
 }
