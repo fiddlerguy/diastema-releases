@@ -31,6 +31,16 @@
       "signature": "N3GZ0qmno/d1ppnMqhw6dRB+skr2OpUj7QK8QiZT31s20Wb+k6jst10Pf06wdNulgK6brnuq2xgp53pmApXLAA=="
     },
     {
+      "version": "0.29.10",
+      "channel": "stable",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.10/Diastema-Setup-0.29.10.exe",
+      "sha256": "478108914d022ba25c55c27d108dd2faf053aa8c9d16fc9de391063b33dfb867",
+      "size": 30943505,
+      "released": "2026-11-17T18:11:04.917Z",
+      "notes": "Present mode: the staff drawer opens without a PIN (leaving Present mode still asks for one); Diastema reopened after the Present mode tab was closed shows the sign-in screen; with only financing shown, a Pay in full card shows beside it.",
+      "signature": "jNzAFP0HRQzESFa8L3F4LS1pQoTSiJQQerO9C4I6QuIJjSNlxCVnoazb9mda8sTT14f0l3LaUrz3vSGxbtoCAw=="
+    },
+    {
       "version": "0.29.9",
       "channel": "stable",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.9/Diastema-Setup-0.29.9.exe",
