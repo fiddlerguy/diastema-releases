@@ -31,6 +31,16 @@
       "signature": "N3GZ0qmno/d1ppnMqhw6dRB+skr2OpUj7QK8QiZT31s20Wb+k6jst10Pf06wdNulgK6brnuq2xgp53pmApXLAA=="
     },
     {
+      "version": "0.29.6",
+      "channel": "stable",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.6/Diastema-Setup-0.29.6.exe",
+      "sha256": "d2e5a0e3fc9d8a0bb21b5c584e8b9ad899e417ff4f0aa9ebf680d59dc49ec70b",
+      "size": 30938432,
+      "released": "2026-11-17T16:22:45.022Z",
+      "notes": "Treatment plan printouts from an iPad or iPhone print at normal size with half-inch margins (they printed narrow, on extra pages).",
+      "signature": "pHO0CsGlImqFtuFyAZDgaNLyraNeANuaahl4jvpLubEqnIJlH7nDGAeJNQa9CW2yD6lAB4bDdQwp+hyB9pIqDA=="
+    },
+    {
       "version": "0.29.5",
       "channel": "stable",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.5/Diastema-Setup-0.29.5.exe",
