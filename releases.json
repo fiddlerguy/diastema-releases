@@ -31,6 +31,16 @@
       "signature": "N3GZ0qmno/d1ppnMqhw6dRB+skr2OpUj7QK8QiZT31s20Wb+k6jst10Pf06wdNulgK6brnuq2xgp53pmApXLAA=="
     },
     {
+      "version": "0.29.7",
+      "channel": "stable",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.7/Diastema-Setup-0.29.7.exe",
+      "sha256": "242fc5adcca40a579a7d04481a646ca6a3e7f3927d411d059a664274c851bb86",
+      "size": 30935885,
+      "released": "2026-11-17T16:34:47.987Z",
+      "notes": "Present mode's Print on an iPad (or Share > Print) prints the plan printout, not the presentation screen.",
+      "signature": "XrpePY3aYmQSt1j4ojJ6JFeTsU1ifBOFt5Urwysu8I/1zrzCMr/GgBzzia4liVKJjNJ96v/fM2yVtIAwTq6aCg=="
+    },
+    {
       "version": "0.29.6",
       "channel": "stable",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.6/Diastema-Setup-0.29.6.exe",
