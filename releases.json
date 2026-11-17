@@ -31,6 +31,16 @@
       "signature": "N3GZ0qmno/d1ppnMqhw6dRB+skr2OpUj7QK8QiZT31s20Wb+k6jst10Pf06wdNulgK6brnuq2xgp53pmApXLAA=="
     },
     {
+      "version": "0.29.5",
+      "channel": "stable",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.5/Diastema-Setup-0.29.5.exe",
+      "sha256": "19936fe8fed6edbe5e4bce061981c806c6c750b4a73281f8084afeb675c69a26",
+      "size": 30936674,
+      "released": "2026-11-17T15:05:50.525Z",
+      "notes": "Forms filed before Diastema: turn on Settings → Patient forms → What's due → Count forms filed before Diastema, and a patient whose Flex New Patient Form or Health History Update PDF is already in Open Dental's Images isn't asked for it again. The date in the file's name counts as the day it was signed, so the next health history update comes due from then. Found forms show on the patient's Forms card under Filed before Diastema.",
+      "signature": "45LpI03EZ8rlPU0k4fLTWmvtDG1caDQt5J0gEyfw+2iE7PDuql5bK3OJCluOhOsgdHmB34LAu4uQVK2Jht/4CA=="
+    },
+    {
       "version": "0.29.4",
       "channel": "stable",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.4/Diastema-Setup-0.29.4.exe",
