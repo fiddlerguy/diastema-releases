@@ -1,10 +1,10 @@
 {
-  "version": "0.29.7",
+  "version": "0.29.8",
   "channel": "stable",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.7/Diastema-Setup-0.29.7.exe",
-  "sha256": "242fc5adcca40a579a7d04481a646ca6a3e7f3927d411d059a664274c851bb86",
-  "size": 30935885,
-  "released": "2026-11-17T16:34:47.987Z",
-  "notes": "Present mode's Print on an iPad (or Share > Print) prints the plan printout, not the presentation screen.",
-  "signature": "XrpePY3aYmQSt1j4ojJ6JFeTsU1ifBOFt5Urwysu8I/1zrzCMr/GgBzzia4liVKJjNJ96v/fM2yVtIAwTq6aCg=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.8/Diastema-Setup-0.29.8.exe",
+  "sha256": "c9a70a9be8a787e3eb438f48e04d64780e67eae112a0061625ec2f52e65402de",
+  "size": 30935749,
+  "released": "2026-11-17T16:44:46.657Z",
+  "notes": "Plan printouts from an iPad or iPhone print at the same size as from a computer (they printed about 20% larger, on an extra page).",
+  "signature": "mgSf3wRQpB0VEouMOJvdgnxYFweaW4NX58GSVbpARbDW8BiuvG8gitk/NCj0yt7Eeht5drWBhgIjV5vqJKrZBw=="
 }
