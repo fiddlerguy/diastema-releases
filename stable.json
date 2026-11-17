@@ -1,10 +1,10 @@
 {
-  "version": "0.29.8",
+  "version": "0.29.9",
   "channel": "stable",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.8/Diastema-Setup-0.29.8.exe",
-  "sha256": "c9a70a9be8a787e3eb438f48e04d64780e67eae112a0061625ec2f52e65402de",
-  "size": 30935749,
-  "released": "2026-11-17T16:44:46.657Z",
-  "notes": "Plan printouts from an iPad or iPhone print at the same size as from a computer (they printed about 20% larger, on an extra page).",
-  "signature": "mgSf3wRQpB0VEouMOJvdgnxYFweaW4NX58GSVbpARbDW8BiuvG8gitk/NCj0yt7Eeht5drWBhgIjV5vqJKrZBw=="
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.29.9/Diastema-Setup-0.29.9.exe",
+  "sha256": "41908d306f40ed52e56728348465f938e841cf6e31ea195d24d3efbc095ca3de",
+  "size": 30935167,
+  "released": "2026-11-17T17:47:34.980Z",
+  "notes": "Forms filed before Diastema: a new patient whose Flex New Patient Form is in Open Dental no longer gets the automatic welcome email or new-patient text, including when the form is filed after the welcome was planned.",
+  "signature": "SS4RdYjkxicV+mNeuCqfX682ZiwMDWjmKSEnvh9wmYH01/iYsWmcNpuKHXs9c4hW6yFbgSRLkYpt//hoAbP2Aw=="
 }
