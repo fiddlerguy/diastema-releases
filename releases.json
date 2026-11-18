@@ -1,6 +1,27 @@
 {
   "releases": [
     {
+      "version": "0.32.0-beta.6",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.6/Diastema-Setup-0.32.0-beta.6.exe",
+      "sha256": "d49c9c761cbc0acc5585edd5bf93f4656efca10b5d9b8ba7950b7421ed0727be",
+      "size": 31126180,
+      "released": "2026-11-18T21:53:37.867Z",
+      "notes": "Diastema 0.32.0-beta.6 (beta)\n\nThis beta is everything Diastema has, in one build: the stable version (through 0.29.10) and every beta since. An office that switches from stable to beta gets it. With Open Dental, the office works the way it does today.\n\nChanged since 0.32.0-beta.5\n\n- Follow-ups, All unscheduled: rows stay compact on screens set to a larger text size (for example 125% in Windows). Before, the Patient column shrank to a word's width and each row ran four or five lines.\n- Texts: the page no longer scrolls past the conversations into blank space once there are texts.\n- Texts: the dot on the Texts tab now lights only (red) when a conversation assigned to you is unread. Conversations that are only unread in All, such as ones where an automatic reminder just went out, no longer light a yellow dot. The Needs reply number is unchanged.\n- Tasks: an open Tasks page shows new and changed tasks on its own, checking every minute and right away when you come back to the browser tab. No reload needed.\n\nBefore you switch\n\nComing from 0.32.0-beta.1 through beta.5: nothing to do; there is no database update in this beta.\n\nComing from stable: see the 0.32.0-beta.2 notes. A database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v49\"). Keep that copy.",
+      "signature": "gR+YbbwfNOocKVJRWO8hqqMKFpp7ie+7R4bGkeQCNLqsEf346DYibU/DpjFtqIiQtWcfiywModrZAEPYna/4DA==",
+      "linux": {
+        "file": "diastema-0.32.0-beta.6-linux.tar.gz",
+        "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.6/diastema-0.32.0-beta.6-linux.tar.gz",
+        "size": 2798090,
+        "sha256": "d937079833e6bc3aa07128c6266832b479a9b3f614828d2fc5649d83de102e7e",
+        "app": {
+          "sha256": "bb6d771faabe517eff661df338180a8237c7482faac0a2948ffa124ef5950945",
+          "files": 138
+        },
+        "signature": "yFKZ/WOT+2/zvhPNCHyJjMlsyuLP3NMw98DIhWyCE0GH8uceHUS4XcRQcGE+eoanXuabRah0EdNTrb9bZC4aAA=="
+      }
+    },
+    {
       "version": "0.32.0-beta.5",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.5/Diastema-Setup-0.32.0-beta.5.exe",
