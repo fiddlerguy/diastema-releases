@@ -1,6 +1,27 @@
 {
   "releases": [
     {
+      "version": "0.32.0-beta.5",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.5/Diastema-Setup-0.32.0-beta.5.exe",
+      "sha256": "1bb5456bceecc291c7bc341b7c1cf21ce2ea3e96e13c1bf4ba738b7c52555cf3",
+      "size": 31131784,
+      "released": "2026-11-18T19:59:42.457Z",
+      "notes": "Diastema 0.32.0-beta.5 (beta)\n\nThis beta is everything Diastema has, in one build: the stable version (through 0.29.10) and every beta since. An office that switches from stable to beta gets it. With Open Dental, the office works the way it does today.\n\nChanged since 0.32.0-beta.4\n\n- Online scheduling on your website: the booking pop-up now works whether your website's address is typed with or without www. Before, a site at www.example.com with example.com in Settings (or the other way round) showed an empty pop-up.\n- Keep your website's own button look: add data-style=\"site\" to the booking link and Diastema leaves the button as your site styles it, adding only the pop-up. Without it, the button takes the office's colors as before.\n- The website snippet can be on a page more than once (for example in the header and in the phone menu): each button is set up once, so a click opens one pop-up, not two.\n- The website snippet now finds every booking button on the page, including ones further down than the snippet.\n\nBefore you switch\n\nComing from 0.32.0-beta.1 through beta.4: nothing to do; there is no database update in this beta.\n\nComing from stable: see the 0.32.0-beta.2 notes. A database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v49\"). Keep that copy.",
+      "signature": "9VRqHLuiIe6buiAfGWnS3JuTm+1WjrgJvaKXE2qKZ+hTkLpnkBeaTHqW3Ez6G7d/S9DuSC5eoMj2O2MnXJ1jBA==",
+      "linux": {
+        "file": "diastema-0.32.0-beta.5-linux.tar.gz",
+        "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.5/diastema-0.32.0-beta.5-linux.tar.gz",
+        "size": 2797256,
+        "sha256": "e91234ea5257d64a8aceeb1b35d180e81e9c166dea27eabfc231e70d59e94081",
+        "app": {
+          "sha256": "5f068b931cc2a36b6611280527d5d165e8a034ff1ad6d183690792dbb2f1acbf",
+          "files": 138
+        },
+        "signature": "Cq/tk8BZnPd5OuHgOJ1DJC6TMQiuUj4KP5yxSInqt/6MGZ1jYb5pt0hRfdCSipyaNuiuo/OSz+lDELhgVyMDBg=="
+      }
+    },
+    {
       "version": "0.32.0-beta.4",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.4/Diastema-Setup-0.32.0-beta.4.exe",
