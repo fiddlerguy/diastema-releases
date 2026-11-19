@@ -1,6 +1,27 @@
 {
   "releases": [
     {
+      "version": "0.32.0-beta.8",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.8/Diastema-Setup-0.32.0-beta.8.exe",
+      "sha256": "2c04c2be2e02b41b8eec74cca701fbda4cc719c2658a33e70d4f9cd270d5b5c4",
+      "size": 31133889,
+      "released": "2026-11-19T18:45:53.974Z",
+      "notes": "Diastema 0.32.0-beta.8 (beta)\n\nThis beta is everything Diastema has, in one build: the stable version (through 0.29.10) and every beta since. An office that switches from stable to beta gets it. With Open Dental, the office works the way it does today.\n\nChanged since 0.32.0-beta.7\n\n- Patient forms: a patient with two sets of forms on their link (for example a health history update and a consent for an upcoming visit) is asked \"Who is filling out these forms?\" once, not once for each set. They can choose \"I'm the patient\" and go on; before, the page said only one person could be the patient and stopped them.\n- Patient language: the preferred language a patient answers on their signed form decides the language of their texts and emails (treatment plans, forms, recall, statements, receipts). A phone set to another language no longer changes it. Tapping the language button on the forms page still does, unless the patient's form has already answered it.\n\nBefore you switch\n\nComing from 0.32.0-beta.1 through beta.7: a database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v50\"). It sets each patient's language from the preferred-language answer on their newest signed form. Keep that copy.\n\nComing from stable: see the 0.32.0-beta.2 notes. A database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v50\"). Keep that copy.",
+      "signature": "CpI9mbLkbgJ9HlUtrtuMLGEqZ9Wiy2cwrEDNPtu2Zasa6WDoxk6Xkdw2dC5LcwDyO3P8jP3KxhdgpdTwQ/qFBw==",
+      "linux": {
+        "file": "diastema-0.32.0-beta.8-linux.tar.gz",
+        "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.8/diastema-0.32.0-beta.8-linux.tar.gz",
+        "size": 2805786,
+        "sha256": "9d4be21f9e5da9a009c34b054761d6aa93e48e559add8e0d26a4f92067aeb792",
+        "app": {
+          "sha256": "4a84306674f553882b0127f6a8f2b1ac048af54235b0945a3e0e68b338c54560",
+          "files": 139
+        },
+        "signature": "eAhYV01bRyUWMvRfBcrgMuyb97OQqgWJ5XjkQjh3INB5z+tbfTtYkpxxJ2f6kJ8G+62TO74DQOWjOqlFLYBoBQ=="
+      }
+    },
+    {
       "version": "0.32.0-beta.7",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.7/Diastema-Setup-0.32.0-beta.7.exe",
