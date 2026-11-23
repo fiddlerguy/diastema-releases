@@ -1,6 +1,27 @@
 {
   "releases": [
     {
+      "version": "0.32.0-beta.10",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.10/Diastema-Setup-0.32.0-beta.10.exe",
+      "sha256": "759b80eb4c2c7f178e140538d99efd45be6bf2974ba25b1dc3775a4d14985e2b",
+      "size": 31148577,
+      "released": "2026-11-23T16:58:00.636Z",
+      "notes": "Diastema 0.32.0-beta.10 (beta)\n\nThis beta is everything Diastema has, in one build: the stable version (through 0.29.10) and every beta since. An office that switches from stable to beta gets it. With Open Dental, the office works the way it does today.\n\nChanged since 0.32.0-beta.9\n\n- Birthday email: a new page, Settings → Birthday email. Each day Diastema can email a short birthday greeting to every active patient whose birthday it is: \"Happy birthday, Maria!\" and one line from everyone at the practice. No appointment, no button, nothing about treatment or balances. It's off until you turn it on.\n- It goes from the hour you pick (9:00 AM to start) until 8:00 PM. If the server was off at that hour, it goes when the server is back the same day; a birthday is never emailed on a later day, and nothing goes at night. Each patient gets one a year.\n- Who gets it: an adult at their own email only. A patient under 18 at their own email, or else at their parent's or guardian's (the family's guarantor), worded about the child (\"Happy birthday to Sofia!\"). Patients set to No automatic messages, with no email in the chart, or whose address bounced get none. Patients whose language is Spanish get it in Spanish (a draft for review).\n- It follows Automatic sending (Settings → Patient forms → Emails & texts): On sends, Preview only records what would go and sends nothing, Off sends nothing. Pausing automatic messages stops it too, and a birthday during the pause gets none.\n- The page shows the letter in English and Spanish, to the patient and about a child to their parent, has Send me a test, and says how many went today and in the last 7 days. Edit the letter opens it in the letter editor, like the other letters.\n- Settings → Automatic messages lists the birthday email with whether it's going out.\n- The daily status report gains a \"Birthday emails sent\" line while the birthday email is on. \"Emails sent to patients\" no longer counts them, so the two lines don't overlap.\n- There's no unsubscribe link in the email: a patient who doesn't want it is set to No automatic messages.\n- The birthday email needs the Diastema service update that comes with this beta (0.32.1). Until it reaches your office, a birthday email shows as couldn't be sent, and nothing else is affected.\n\nBefore you switch\n\nComing from 0.32.0-beta.9: no database update.\n\nComing from 0.32.0-beta.1 through beta.8: a database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v51\"). It adds the list of office emails sent. Keep that copy.\n\nComing from stable: see the 0.32.0-beta.2 notes. A database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v51\"). Keep that copy.",
+      "signature": "BvQep4jn94pDDGz1I1MO38gwQN4CjGkl68zremaGnBhf/GWdUUJCuOrG7+BCFLZHHQR1jABmmxb/HRoT9K61DA==",
+      "linux": {
+        "file": "diastema-0.32.0-beta.10-linux.tar.gz",
+        "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.10/diastema-0.32.0-beta.10-linux.tar.gz",
+        "size": 2829608,
+        "sha256": "40ed457aaf5bdda2aed8f6c455840cf63f892cfd301009577dba8b751fd24418",
+        "app": {
+          "sha256": "5db468945a85c883f8d76ca5a2a50fbdd1afe1e8952a57706d26be4e47b9ea17",
+          "files": 141
+        },
+        "signature": "8ttWnbqrfqUy1FsPHhpB8gWnoWggWxR9U6iFD0VnxqUZ+fZ3C3zR7KdD11Xfv2xEcDa4HhqEyGSIeKucGS3ZCw=="
+      }
+    },
+    {
       "version": "0.32.0-beta.9",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.9/Diastema-Setup-0.32.0-beta.9.exe",
