@@ -1,6 +1,27 @@
 {
   "releases": [
     {
+      "version": "0.32.0-beta.9",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.9/Diastema-Setup-0.32.0-beta.9.exe",
+      "sha256": "bc4cd73eaed359fa4a737bd2ccfa5126a6317a4d01bbb4653b9b00c2e4d210ed",
+      "size": 31148773,
+      "released": "2026-11-23T15:01:36.087Z",
+      "notes": "Diastema 0.32.0-beta.9 (beta)\n\nThis beta is everything Diastema has, in one build: the stable version (through 0.29.10) and every beta since. An office that switches from stable to beta gets it. With Open Dental, the office works the way it does today.\n\nChanged since 0.32.0-beta.8\n\n- Office emails: a new page, Settings → Office emails, with three emails Diastema can send to the office itself. Each is off until you turn it on, and each has a Send one now button and shows when it last went.\n- Online booking alert: an email each time a patient books online, with their first name, the time, the visit type, whether they're new or returning, and a line when the booking needs review. Needs Online scheduling.\n- Daily status report: once a day at the hour you pick (7:00 PM to start), what Diastema did today: texts sent and received, emails to patients, online bookings, forms signed, confirmations, card payments, treatment plans presented and signed, follow-up calls and tasks, each for the features your office has. A day with nothing to count sends nothing.\n- Daily call list: once a day at the hour you pick (6:00 AM to start), the patients scheduled today in time order, with the provider, the procedures, the cell and home phones (tap to call) and, if you like, the appointment note. A day with no appointments sends nothing. If the server was off at that hour it goes when the server is back, but not after 3:00 PM.\n- Where they go: up to 5 addresses on the page; with none, the practice's email from Settings → Practice. The call list holds patients' names, phone numbers and appointment notes, so send it only to a mailbox the practice controls. These emails go to the office, not to patients, so pausing automatic messages doesn't stop them.\n- These emails need the Diastema service update that comes with this beta. Until it reaches your office, an email you turn on shows on the page as couldn't be sent, and nothing else is affected.\n\nBefore you switch\n\nComing from 0.32.0-beta.1 through beta.8: a database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v51\"). It adds the list of office emails sent. Keep that copy.\n\nComing from stable: see the 0.32.0-beta.2 notes. A database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v51\"). Keep that copy.",
+      "signature": "22CWNTiXpDcaX6tzSEi27IXG0QXV9pEarhwarrs0RHzglN87gC09aYC9HqDXLRt903HaX7mNn7xoNeg16aMFAQ==",
+      "linux": {
+        "file": "diastema-0.32.0-beta.9-linux.tar.gz",
+        "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.9/diastema-0.32.0-beta.9-linux.tar.gz",
+        "size": 2820413,
+        "sha256": "42883a9e24282e8ddc31527314a7a45549a0612ecbd19d3d14c7392dccca1db2",
+        "app": {
+          "sha256": "78d07dfa885201470e2dc86ec68dc27e3b8b227647bc0abdbaee1b7a817fbdf6",
+          "files": 140
+        },
+        "signature": "jIelpx26RJwXFuCz2McpoZbpD+Wcf9BPEn/H7BqWycnty0/cjW3Ec0ks6d76/ge8mY8S+62BG61BWXK+KpSjBg=="
+      }
+    },
+    {
       "version": "0.32.0-beta.8",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.8/Diastema-Setup-0.32.0-beta.8.exe",
