@@ -1,6 +1,27 @@
 {
   "releases": [
     {
+      "version": "0.32.0-beta.13",
+      "channel": "beta",
+      "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.13/Diastema-Setup-0.32.0-beta.13.exe",
+      "sha256": "a50010e7d69e5bb6ce33d7ff9f98b0e0e990b82e8a8ec6582a4857b1c7921fb2",
+      "size": 31150743,
+      "released": "2026-11-24T05:17:31.849Z",
+      "notes": "Diastema 0.32.0-beta.13 (beta)\n\nThis beta is everything Diastema has, in one build: the stable version (through 0.29.10) and every beta since. An office that switches from stable to beta gets it. With Open Dental, the office works the way it does today.\n\nChanged since 0.32.0-beta.12\n\n- Patient emails, when Diastema's email service isn't set up right: staff now read \"will be emailed once Diastema's email service is working again (Diastema has been told)\" instead of \"in a few minutes\". Such an email keeps trying for three days instead of one, since the email itself is fine; after that it's marked not sent, with that reason.\n- Patient emails the email service refuses (most often a bad address): staff now read \"the email service refused it (check the email address in the chart)\".\n- These words show on the Email and Resend message, Send me a test, receipts, payment plan emails, statements, treatment plan Send and Settings → Office emails.\n- These answers come from Diastema's service once it has its next update. Until then nothing changes.\n\nBefore you switch\n\nComing from 0.32.0-beta.9 through beta.12: no database update. This change needs no Diastema service update.\n\nComing from 0.32.0-beta.1 through beta.8: a database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v51\"). It adds the list of office emails sent. Keep that copy.\n\nComing from stable: see the 0.32.0-beta.2 notes. A database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v51\"). Keep that copy.",
+      "signature": "Ok28l1cUM9LQwOmOE9zf7ZG4CAoqjva4RxVE5DhqlfJpOrRBIx8ga2YYQ8rhtskD758gqzkNjcHEatBfLvtwDA==",
+      "linux": {
+        "file": "diastema-0.32.0-beta.13-linux.tar.gz",
+        "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.13/diastema-0.32.0-beta.13-linux.tar.gz",
+        "size": 2832518,
+        "sha256": "1f3a6738cd64e03ea54d319ff7437ab8391ee56f81299d5e6287d00b3b77d221",
+        "app": {
+          "sha256": "6d77ed1d431d0a49c7d72c5491347cdeecb7be64d942b50d7fd4f48ca5f336f3",
+          "files": 141
+        },
+        "signature": "gi2ftgQVoC9NzOTtMvlAOmneIeKfBpiTCRw/YJVMn1U4hJHm1g8pDu7BiKLrOlyFMWHaUw/vtN38wW/+bxPjDw=="
+      }
+    },
+    {
       "version": "0.32.0-beta.12",
       "channel": "beta",
       "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.12/Diastema-Setup-0.32.0-beta.12.exe",
