@@ -1,21 +1,21 @@
 {
-  "version": "0.32.0-beta.11",
+  "version": "0.32.0-beta.12",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.11/Diastema-Setup-0.32.0-beta.11.exe",
-  "sha256": "b89f23f74b4a626d7ffbe34cbfc35ac32e1bfbea70953f8594031e3813a872bc",
-  "size": 31147950,
-  "released": "2026-11-24T03:19:52.764Z",
-  "notes": "Diastema 0.32.0-beta.11 (beta)\n\nThis beta is everything Diastema has, in one build: the stable version (through 0.29.10) and every beta since. An office that switches from stable to beta gets it. With Open Dental, the office works the way it does today.\n\nChanged since 0.32.0-beta.10\n\nNothing an office on Open Dental can see. This beta finishes Diastema's connection to NexHealth and the pieces for practices Diastema hosts on its own servers, which stay switched off for an office that uses Open Dental:\n\n- A practice on NexHealth reads its system's phones, insurance amounts, claim dates, blockouts and holidays the way Open Dental shows them, and online booking works there.\n- On NexHealth, online booking offers times on a step the practice sets (Settings → Online scheduling → Times offered every: 5, 10 or 15 minutes, 10 to start). An Open Dental office keeps Open Dental's own step and sees no new setting.\n- A change to a booking that the practice's system hasn't taken yet waits on To the chart instead of being lost.\n- A new NexHealth practice's first copy of its history no longer counts toward its daily call limit.\n- A practice that Diastema hosts can now be set up on NexHealth from its setup file.\n\nBefore you switch\n\nComing from 0.32.0-beta.9 or beta.10: nothing to do; there is no database update in this beta.\n\nComing from 0.32.0-beta.1 through beta.8: a database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v51\"). Keep that copy.\n\nComing from stable: see the 0.32.0-beta.2 notes. A database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v51\"). Keep that copy.",
-  "signature": "yd6BGcBsQ/0JohbKlt1xQ24/V2xMfLrN3ihCYLLip7yud3/jwtzY7GnaHXsv6Yv1CvkH/xDj1cTumrOVk+qzCA==",
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.12/Diastema-Setup-0.32.0-beta.12.exe",
+  "sha256": "7ff1c27b04740a16b3334f278a8e4f93881c6951806a7c75c27e63496c435ec2",
+  "size": 31150582,
+  "released": "2026-11-24T04:53:12.432Z",
+  "notes": "Diastema 0.32.0-beta.12 (beta)\n\nThis beta is everything Diastema has, in one build: the stable version (through 0.29.10) and every beta since. An office that switches from stable to beta gets it. With Open Dental, the office works the way it does today.\n\nChanged since 0.32.0-beta.11\n\n- Daily call list (Settings → Office emails): it's now an end-of-day list, the patients seen today, for calls after their visit such as post-operative calls. Same time order, providers, procedures, phones and note as before.\n- It goes from the hour you pick until midnight, like the daily status report. It starts at 5:00 PM unless you pick another hour; an hour you already saved stays as you saved it, and you can still pick any hour of the day. If the server was off at that hour, it goes when the server is back the same day.\n- On beta.9 through beta.11 a call list was never sent from 3:00 PM on, so an office that picked an afternoon or evening hour got none. It now goes at that hour.\n\nBefore you switch\n\nComing from 0.32.0-beta.10 or beta.11: no database update. This change needs no Diastema service update.\n\nComing from 0.32.0-beta.9: no database update. See the beta.10 notes for the birthday email.\n\nComing from 0.32.0-beta.1 through beta.8: a database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v51\"). It adds the list of office emails sent. Keep that copy.\n\nComing from stable: see the 0.32.0-beta.2 notes. A database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v51\"). Keep that copy.",
+  "signature": "0gXtHpYxJoXdMdPIn3KoWysOFyUSUZ5lH9zwlOt6C2k3ayPdjW0ZWbznaTeTfZLYWR8PS/ntdog4ylA4guqvDw==",
   "linux": {
-    "file": "diastema-0.32.0-beta.11-linux.tar.gz",
-    "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.11/diastema-0.32.0-beta.11-linux.tar.gz",
-    "size": 2831789,
-    "sha256": "3a8e587b87483f9df2eb6a70763c7a7dd7b3ba6eccb72bb0a9abd8bce1a9ba53",
+    "file": "diastema-0.32.0-beta.12-linux.tar.gz",
+    "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.12/diastema-0.32.0-beta.12-linux.tar.gz",
+    "size": 2831793,
+    "sha256": "b4810ee1483d5b3901b3d75820c045e3c7cb2e62c3151c8f0d15c507424fed7d",
     "app": {
-      "sha256": "b6b932e80ba17dfc78dbc03f69a03cd234c0ecea362dec0001855e316b92a002",
+      "sha256": "c3e5f4dc19fa914f6829315e8e3d5a5261768bb0ec153f517decf5caf746bb6e",
       "files": 141
     },
-    "signature": "lO7yjLUhmIFKXERdRPzOjxRNU6ouelopoXgaJN2vNQ52V4hL7vZnGL3pKQr7ndNbStoMQBD86F6szkFU7LOQBA=="
+    "signature": "n+awGYHrHxY8TUa8cf9M5GmECxmpEcI2D42Dzs5LSvCSwZqCsteMrySWKuowGjYRjixXHZ11Yn1GhpUmSPSeBg=="
   }
 }
