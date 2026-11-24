@@ -1,21 +1,21 @@
 {
-  "version": "0.32.0-beta.10",
+  "version": "0.32.0-beta.11",
   "channel": "beta",
-  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.10/Diastema-Setup-0.32.0-beta.10.exe",
-  "sha256": "759b80eb4c2c7f178e140538d99efd45be6bf2974ba25b1dc3775a4d14985e2b",
-  "size": 31148577,
-  "released": "2026-11-23T16:58:00.636Z",
-  "notes": "Diastema 0.32.0-beta.10 (beta)\n\nThis beta is everything Diastema has, in one build: the stable version (through 0.29.10) and every beta since. An office that switches from stable to beta gets it. With Open Dental, the office works the way it does today.\n\nChanged since 0.32.0-beta.9\n\n- Birthday email: a new page, Settings → Birthday email. Each day Diastema can email a short birthday greeting to every active patient whose birthday it is: \"Happy birthday, Maria!\" and one line from everyone at the practice. No appointment, no button, nothing about treatment or balances. It's off until you turn it on.\n- It goes from the hour you pick (9:00 AM to start) until 8:00 PM. If the server was off at that hour, it goes when the server is back the same day; a birthday is never emailed on a later day, and nothing goes at night. Each patient gets one a year.\n- Who gets it: an adult at their own email only. A patient under 18 at their own email, or else at their parent's or guardian's (the family's guarantor), worded about the child (\"Happy birthday to Sofia!\"). Patients set to No automatic messages, with no email in the chart, or whose address bounced get none. Patients whose language is Spanish get it in Spanish (a draft for review).\n- It follows Automatic sending (Settings → Patient forms → Emails & texts): On sends, Preview only records what would go and sends nothing, Off sends nothing. Pausing automatic messages stops it too, and a birthday during the pause gets none.\n- The page shows the letter in English and Spanish, to the patient and about a child to their parent, has Send me a test, and says how many went today and in the last 7 days. Edit the letter opens it in the letter editor, like the other letters.\n- Settings → Automatic messages lists the birthday email with whether it's going out.\n- The daily status report gains a \"Birthday emails sent\" line while the birthday email is on. \"Emails sent to patients\" no longer counts them, so the two lines don't overlap.\n- There's no unsubscribe link in the email: a patient who doesn't want it is set to No automatic messages.\n- The birthday email needs the Diastema service update that comes with this beta (0.32.1). Until it reaches your office, a birthday email shows as couldn't be sent, and nothing else is affected.\n\nBefore you switch\n\nComing from 0.32.0-beta.9: no database update.\n\nComing from 0.32.0-beta.1 through beta.8: a database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v51\"). It adds the list of office emails sent. Keep that copy.\n\nComing from stable: see the 0.32.0-beta.2 notes. A database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v51\"). Keep that copy.",
-  "signature": "BvQep4jn94pDDGz1I1MO38gwQN4CjGkl68zremaGnBhf/GWdUUJCuOrG7+BCFLZHHQR1jABmmxb/HRoT9K61DA==",
+  "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.11/Diastema-Setup-0.32.0-beta.11.exe",
+  "sha256": "b89f23f74b4a626d7ffbe34cbfc35ac32e1bfbea70953f8594031e3813a872bc",
+  "size": 31147950,
+  "released": "2026-11-24T03:19:52.764Z",
+  "notes": "Diastema 0.32.0-beta.11 (beta)\n\nThis beta is everything Diastema has, in one build: the stable version (through 0.29.10) and every beta since. An office that switches from stable to beta gets it. With Open Dental, the office works the way it does today.\n\nChanged since 0.32.0-beta.10\n\nNothing an office on Open Dental can see. This beta finishes Diastema's connection to NexHealth and the pieces for practices Diastema hosts on its own servers, which stay switched off for an office that uses Open Dental:\n\n- A practice on NexHealth reads its system's phones, insurance amounts, claim dates, blockouts and holidays the way Open Dental shows them, and online booking works there.\n- On NexHealth, online booking offers times on a step the practice sets (Settings → Online scheduling → Times offered every: 5, 10 or 15 minutes, 10 to start). An Open Dental office keeps Open Dental's own step and sees no new setting.\n- A change to a booking that the practice's system hasn't taken yet waits on To the chart instead of being lost.\n- A new NexHealth practice's first copy of its history no longer counts toward its daily call limit.\n- A practice that Diastema hosts can now be set up on NexHealth from its setup file.\n\nBefore you switch\n\nComing from 0.32.0-beta.9 or beta.10: nothing to do; there is no database update in this beta.\n\nComing from 0.32.0-beta.1 through beta.8: a database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v51\"). Keep that copy.\n\nComing from stable: see the 0.32.0-beta.2 notes. A database update runs once at the first start and saves a copy of the database first (in the data folder's backups, named \"before-v51\"). Keep that copy.",
+  "signature": "yd6BGcBsQ/0JohbKlt1xQ24/V2xMfLrN3ihCYLLip7yud3/jwtzY7GnaHXsv6Yv1CvkH/xDj1cTumrOVk+qzCA==",
   "linux": {
-    "file": "diastema-0.32.0-beta.10-linux.tar.gz",
-    "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.10/diastema-0.32.0-beta.10-linux.tar.gz",
-    "size": 2829608,
-    "sha256": "40ed457aaf5bdda2aed8f6c455840cf63f892cfd301009577dba8b751fd24418",
+    "file": "diastema-0.32.0-beta.11-linux.tar.gz",
+    "url": "https://github.com/fiddlerguy/diastema-releases/releases/download/v0.32.0-beta.11/diastema-0.32.0-beta.11-linux.tar.gz",
+    "size": 2831789,
+    "sha256": "3a8e587b87483f9df2eb6a70763c7a7dd7b3ba6eccb72bb0a9abd8bce1a9ba53",
     "app": {
-      "sha256": "5db468945a85c883f8d76ca5a2a50fbdd1afe1e8952a57706d26be4e47b9ea17",
+      "sha256": "b6b932e80ba17dfc78dbc03f69a03cd234c0ecea362dec0001855e316b92a002",
       "files": 141
     },
-    "signature": "8ttWnbqrfqUy1FsPHhpB8gWnoWggWxR9U6iFD0VnxqUZ+fZ3C3zR7KdD11Xfv2xEcDa4HhqEyGSIeKucGS3ZCw=="
+    "signature": "lO7yjLUhmIFKXERdRPzOjxRNU6ouelopoXgaJN2vNQ52V4hL7vZnGL3pKQr7ndNbStoMQBD86F6szkFU7LOQBA=="
   }
 }
